@@ -1,8 +1,8 @@
-- <Badge type="important" text="2025-07" vertical="middle" /> [陈文斌][] 等人的论文[" Influences of Large-Scale and Mesoscale Circulation Patterns on Precipitation during Rainy Seasons in South China "](https://journals.ametsoc.org/view/journals/mwre/153/8/MWR-D-24-0192.1.xml)已被AMS收录。
+- <Badge type="important" text="2025-07" vertical="middle" /> [陈文斌][]、[袁慧玲][]的论文[" Influences of Large-Scale and Mesoscale Circulation Patterns on Precipitation during Rainy Seasons in South China "](https://journals.ametsoc.org/view/journals/mwre/153/8/MWR-D-24-0192.1.xml)已被AMS收录。
 
 <p style="margin-bottom: 0.5em;"></p>
 
-- <Badge type="danger" text="2025-07" vertical="middle" /> [马冠龙][]、[袁慧玲][]、杨尚上，参加[“第三届世界科学智能大赛航空安全赛道：AI航空结冰气象要素预报”](http://competition.sais.com.cn/competitionDetail/532311/format)获得二等奖。
+- <Badge type="danger" text="2025-07" vertical="middle" /> [马冠龙][]、[袁慧玲][]、杨尚上，参加[“第三届世界科学智能大赛航空安全赛道：AI航空结冰气象要素预报”](http://competition.sais.com.cn/competitionDetail/532311/format)排名第二，荣获二等奖。
 
 <p style="margin-bottom: 0.5em;"></p>
 
