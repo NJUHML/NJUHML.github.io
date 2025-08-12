@@ -29,9 +29,8 @@ features:
 
 ## NJUHML研究组动态:
 
-![alt =x320](/picture/首页照片1.jpg){align="left"}
-![alt =x320](/picture/首页照片2.jpg){align="right"}
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+![alt](/picture/首页照片1.jpg){width="50%"}
+![alt](/picture/首页照片2.jpg){.floay:right, width="50%"}
 <!-- @include: ./news/content.md -->
 
 
