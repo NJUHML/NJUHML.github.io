@@ -17,6 +17,7 @@
 
 ## 博士后
 - [苟琪琪][苟琪琪个人主页] - 博士后
+- [李昊佳][] - 博士后
 
 ## 博士研究生
 
@@ -117,3 +118,4 @@
 [李　翔]: /member/student/lixiang.html
 [黄　涵]: /member/student/huanghan.html
 [王秀智]: /member/student/wangxiuzhi.html
+[李昊佳]: /member/student/lihaojia.html
