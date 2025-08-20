@@ -24,7 +24,7 @@
 
 - Liu, Z., Dong, L., Qiu, Z., Li, X., Yuan, H., Meng, D., Qiu, X., Liang, D., Wang, Y., 2024: Global variable-resolution simulations of extreme precipitation over Henan, China, in 2021 with MPAS-Atmosphere v7.3. Geoscientific Model Development, 17, 5477-5496. <https://gmd.copernicus.org/articles/17/5477/2024/>
 
-- Wang, Y., Hu, J., Wang, J., Chen, M., Yuan, H., Zhang, Y., Li, H., Wang, Y., Gao, L., Sheng, L., Li, D., Li, L., Wang, H., Zhao, Y., Li, Y., Liu, Z., & Guo, W. 2024. Scientific Advances and Weather Services of the China Meteorological Administration’s National Forecasting Systems during the Beijing 2022 Winter Olympics. Advances in Atmospheric Sciences, 41, 767-776. <https://doi.org/10.1007/s00376-023-3206-3>
+- Deng, G., Shen, X.*, Du, J., Gong, J., Tong, H., Deng, L., Xu, Z., Chen, J., Sun, J., Wang, Y., Hu, J., Wang, J., Chen, M., Yuan, H., Zhang, Y., Li, H., Wang, Y., Gao, L., Sheng, L., Li, D., Li, L., Wang, H., Zhao, Y., Li, Y., Liu, Z., & Guo, W. 2024. Scientific Advances and Weather Services of the China Meteorological Administration’s National Forecasting Systems during the Beijing 2022 Winter Olympics. Advances in Atmospheric Sciences, 41, 767-776. https://doi.org/10.1007/s00376-023-3206-3
 
 - 廉丹华,袁慧玲*,王婧羽,陈法敬.2024:河南“21.7”特大暴雨的区域集合预报检验和预报偏差分析[J].南京大学学报(自然科学),60(02):287-300. <https://jns.nju.edu.cn/CN/abstract/abstract1608.shtml>
 
