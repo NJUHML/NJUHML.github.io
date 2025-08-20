@@ -45,7 +45,7 @@
 - [刘屹恒][] - 2025-M.Sc student
 - [刘　阳][] - 2025-M.Sc student
 - [黄　涵][] - 2025-M.Sc student-南赫
-- [马苏东][] - 2025-M.Sc student-南赫
+- [马苏][] - 2025-M.Sc student-南赫
 
 ## 2020-至今毕业生就业情况
 | <div style="width:100px">学制 </div> | <div style="width:350px">毕业工作/职务</div> | <div style="width:50px"> 地点 </div>   | <div style="width:100px">备注</div> |
