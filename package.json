@@ -13,6 +13,7 @@
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.24",
     "@vuepress/plugin-blog": "^2.0.0-rc.112",
+    "@vuepress/plugin-google-analytics": "^2.0.0-rc.112",
     "@vuepress/plugin-markdown-image": "^2.0.0-rc.112",
     "@vuepress/plugin-markdown-include": "^2.0.0-rc.112",
     "@vuepress/plugin-markdown-stylize": "^2.0.0-rc.112",
