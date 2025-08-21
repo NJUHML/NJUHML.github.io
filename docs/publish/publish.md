@@ -3,19 +3,17 @@
 ## 2025
 - Chen, W., H. Yuan*, 2025: Influences of Large-Scale and Mesoscale Circulation Patterns on Precipitation during Rainy Seasons in South China. Monthly Weather Review, 153, 1513-1533. <https://doi.org/10.1175/MWR-D-24-0192.1> 
 
-- Xie, Y., H. Yuan*, 2024: Local and downstream effects of vertical soil water flow on summer persistent extreme precipitation events in southeast China. Journal of Geophysical Research: Atmospheres, 129(24), e2023JD040339.  <https://doi.org/10.1029/2023JD040339>
-
-- Yang, C., H. Yuan*, F. Zhang, M. Xie, Y. Wang, G.-M. Jiang, 2024: Convective initiation nowcasting in South China using physics-augmented random forest models and geostationary satellites. Earth and Space Science, 11, e2024EA003571. <https://doi.org/10.1029/2024EA003571>
-
 - Chao, J., Pan, B., Chen, Q., Yang, S., Wang, J., Zheng, Y., Li, X., Yuan, H., Chen, X., Lu, B. and Xiao, Z., 2025. Learning to infer weather states using partial observations. Journal of Geophysical Research: Machine Learning and Computation, 2, e2024JH000260. <https://doi.org/10.1029/2024JH000260>
 - Wang, J., Wang, X., Yuan, H., Cui, C., Wang, X., & Liu, L. 2025: Wind profile characteristics that warn of summertime flash heavy rain events over the middle reaches of the Yangtze River Basin. Earth and Space Science, 12(2), e2024EA003902.  <https://doi.org/10.1029/2024EA003902>
 
 - Chen, J., Zhu, Y., Duan, W., Zhi, X., Min, J., Li, X., Deng, G., Yuan, H., Feng, J., Du, J. and Li, Q., 2025. A review on development, challenges, and future perspectives of ensemble forecast. Journal of Meteorological Research, 39(3), 534-558. <https://doi.org/10.1007/s13351-025-4909-4>
 
-- 陈静，朱跃建，段晚锁，智协飞，闵锦忠，李晓莉，邓国，袁慧玲，冯杰，杜钧，李巧萍，龚建东，沈学顺，穆穆. 2025. 集合预报进展、挑战及展望. 气象学报，83（3）：480-502. <https://doi.org/10.11676/qxxb2025.20240151> 
+- 陈静，朱跃建，段晚锁，智协飞，闵锦忠，李晓莉，邓国，袁慧玲，冯杰，杜钧，李巧萍，龚建东，沈学顺，穆穆. 2025. 集合预报进展、挑战及展望. 气象学报，83（3）（注：有英文版）：480-502. <https://doi.org/10.11676/qxxb2025.20240151> 
 
 
 ## 2024
+- Xie, Y., H. Yuan*, 2024: Local and downstream effects of vertical soil water flow on summer persistent extreme precipitation events in southeast China. Journal of Geophysical Research: Atmospheres, 129(24), e2023JD040339.  <https://doi.org/10.1029/2023JD040339>
+
 - Yang, C., H. Yuan*, F. Zhang, M. Xie, Y. Wang, G.-M. Jiang, 2024: Convective initiation nowcasting in South China using physics-augmented random forest models and geostationary satellites. Earth and Space Science, 11, e2024EA003571. <https://doi.org/10.1029/2024EA003571>
 
 - Veiga, S. F., H. Yuan*, 2024: Evaluation of metrics for assessing dipolar climate patterns in climate models. Climate Dynamics, 2024, 1-17. <https://doi.org/10.1007/s00382-024-07220-3>
@@ -130,17 +128,8 @@
 
 - Yuan, H., J. Liu, L. Lei, and H. Han, 2016: Characterizing pollution weather patterns using satellite carbon monoxide data[C]//2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS). IEEE, 5724-5726. <http://doi.org//10.1109/IGARSS.2016.7730495>
 
-## 2014
-- Jiang, X., H. Yuan*, M. Xue, X. Chen, X. Tan, 2014: Analysis of a heavy rainfall event over Beijing during 21-22 July 2012 based on high resolution model analyses and forecasts. Journal of Meteorological Research, 28, 199-212. <https://doi.org/10.1007/s13351-014-3139-y>
 
-- Su, X., H. Yuan*, Y. Zhu, Y., Y. Luo, and Y. Wang, 2014: Evaluation of TIGGE ensemble predictions of Northern Hemisphere summer precipitation during 2008-2012.Journal of Geophysical Research: Atmospheres, 119, 7292-7310. <https://doi.org/10.1002/2014JD021733>
-
-## 2012
-- Chang, H.-L., H. Yuan*, and P.-L. Lin, 2012: Short-range (0-12h) PQPFs from time-lagged multimodel ensembles using LAPS. Monthly Weather Review, 140, 1496-1516. <https://doi.org/10.1175/MWR-D-11-00085.1>
-
-- Tang, J., H. Yuan*, Y. Wang, and J. Fei, 2012: The use of shear gradient vorticity in tropical cyclone heavy precipitation prediction: A high-resolution numerical case study. Journal of Tropical Meteorology, 18(4), 403-411.  <https://doi.org/10.16555/j.1006-8775.2012.04.001>
-
-## 2010-2014
+## 2010-2015
 - Chang, H.-L., S.-C. Yang, H. Yuan, P.-L. Lin, and Y.-C. Liou, 2015: Analysis of the Relative Operating Characteristic and Economic Value Using the LAPS Ensemble Prediction System in Taiwan. Monthly Weather Review, 143, 1833–1848. <http://dx.doi.org/10.1175/MWR-D-14-00189.1>
 
 - Jiang, X., H. Yuan*, M. Xue, X. Chen, X. Tan, 2014: Analysis of a heavy rainfall event over Beijing during 21-22 July 2012 based on high resolution model analyses and forecasts. Journal of Meteorological Research, 28, 199-212. <https://doi.org/10.1007/s13351-014-3139-y>
@@ -159,13 +148,17 @@
   
 - Corrigendum: Lu, C., H. Yuan, E. Tollerud, and N. Wang, 2010: Scale-dependent uncertainties in global QPF and QPE from NWP model and satellite fields (vol 11, pg 139, 2010). Journal of Hydrometeorology, 11, 1200-1200. <https://doi.org/10.1175/2010JHM1332.1>
 
+- 孙敏,袁慧玲*,2014: WRF模式中微物理和积云对流参数化方案对台风“莫拉克”模拟敏感性分析.热带气象学报, 30(5):941-951. <https://doi.org/10.3969/j.issn.1004-4965.2014.05.014>
+
+- 姜晓曼，袁慧玲*，薛明，陈曦，谭晓光. 2014：北京“7.21”特大暴雨高分辨率模式分析场及预报分析.气象学报,(2):207-219. （注：有英文版） <https://doi.org/10.11676/qxxb2014.024>
+
 - 陈纾杨，王元，袁慧玲*，2013：2008年6月南方强降水天气分析及TIGGE预报检验.气象科学, 33(4): 384-390. <https://doi.org/10.3969/2013jms.0026>
 
 - 费启瓅, 袁慧玲*, 阿不都外力•阿不力克木, 周元，宗培书,2013: 江苏省自动土壤水分观测与人工观测对比分析及应用. 气象科学, 33(3):302-307. <https://doi.org/10.3969/2013jms.0009>
 
 - 万夫敬, 袁慧玲*,宋金杰,王元, 2012：南京地区降水预报研究. 南京大学学报（自然科学类）,48(4), 513-525. <https://doi.org/10.13232/j.cnki.jnju.2012.04.021>
 
-## 1997-2009
+## 2001-2009
 - Yuan, H.*, C. Lu, J. A. McGinley, P. J. Schultz, B. Jamison, L. Wharton, and C. J. Anderson, 2009: Evaluation of short-range quantitative precipitation forecasts from a time-lagged multimodel ensemble. Weather and Forecasting, 24, 18-38. <https://doi.org/10.1175/2008WAF2007053.1>
 
 - Yuan, H.*, J. A. McGinley, P. J. Schultz, C. J. Anderson, and C. Lu, 2008: Short-range precipitation forecasts from time-lagged multimodel ensembles during the HMT-West-2006 campaign. Journal of Hydrometeorology, 9, 477-491. <https://doi.org/10.1175/2007JHM879.1>
@@ -181,10 +174,6 @@
 - Lu, C., H. Yuan, B. Schwartz, and S. Benjamin, 2007: Short-range numerical weather prediction using time-lagged ensembles. Weather and Forecasting, 22, 580-595. <https://doi.org/10.1175/WAF999.1>
 
 - Fu, C., and H. Yuan, 2001: A virtual numerical experiment to understand the impacts of recovering natural vegetation on the summer climate and environmental conditions in East Asia. Chinese Science Bulletin, 48, 1199-1202. <https://doi.org/10.1007/BF02900602>
-
-- 孙敏,袁慧玲*,2014: WRF模式中微物理和积云对流参数化方案对台风“莫拉克”模拟敏感性分析.热带气象学报, 30(5):941-951. <https://doi.org/10.3969/j.issn.1004-4965.2014.05.014>
-
-- 姜晓曼，袁慧玲*，薛明，陈曦，谭晓光. 2014：北京“7.21”特大暴雨高分辨率模式分析场及预报分析.气象学报,(2):207-219. （注：有英文版） <https://doi.org/10.11676/qxxb2014.024>
 
 - 符淙斌,温刚,谢力,赵茂盛,袁慧玲,2002: 东亚季风区气候和生态系统相互作用的诊断和模拟研究. 南京大学学报(自然科学版). 38(3), 281-294. <https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=NJDZ200203003&dbname=CJFD2002>
 
