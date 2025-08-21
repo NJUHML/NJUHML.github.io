@@ -120,4 +120,4 @@
 [黄　涵]: /member/student/huanghan.html
 [王秀智]: /member/student/wangxiuzhi.html
 [李昊佳]: /member/student/lihaojia.html
-[马苏东]: /member/student/mashudong.html
+[马苏东]: /member/student/masudong.html

@@ -1,7 +1,7 @@
 # 马苏东
 ----
 
-<!-- <img align="left" src="/member/picture/huanghan.jpg" width="220px" height="320px" /> -->
+<img align="left" src="/member/picture/masudong.jpg" width="220px" height="320px" />
 
 <br><br><br>
 &ensp;&ensp; <b><font size="+3" face="楷书"> 马苏东 </font></b><br /><br />
