@@ -1,7 +1,7 @@
 # 论著
 
 ## 2025
-- Yang, S., Nai, C., Liu, X., Li, W., Chao, J., Wang, J., Wang, L., Li, X., Chen, X., Lu, B., Xiao, Z., Boers, N., Yuan, H.*, Pan, B.*, 2025: Generative assimilation and prediction for weather and climate. arXiv:2503.03038. https://doi.org/10.48550/arXiv.2503.03038
+- Yang, S., Nai, C., Liu, X., Li, W., Chao, J., Wang, J., Wang, L., Li, X., Chen, X., Lu, B., Xiao, Z., Boers, N., Yuan, H.*, Pan, B.*, 2025: Generative assimilation and prediction for weather and climate. arXiv:2503.03038. <https://doi.org/10.48550/arXiv.2503.03038>
 
 - Chen, W., H. Yuan*, 2025: Influences of Large-Scale and Mesoscale Circulation Patterns on Precipitation during Rainy Seasons in South China. Monthly Weather Review, 153, 1513-1533. <https://doi.org/10.1175/MWR-D-24-0192.1> 
 
