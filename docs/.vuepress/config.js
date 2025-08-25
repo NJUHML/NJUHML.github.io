@@ -4,6 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { markdownImagePlugin } from '@vuepress/plugin-markdown-image'
 import { markdownIncludePlugin } from '@vuepress/plugin-markdown-include'
 import { markdownStylizePlugin } from '@vuepress/plugin-markdown-stylize'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -68,6 +69,10 @@ export default defineUserConfig({
       attrs: true,
       // 配置项
     }),
+
+    googleAnalyticsPlugin({
+      id: 'G-WZC5475EGS'
+    })
   ],
 
   bundler: viteBundler(),
