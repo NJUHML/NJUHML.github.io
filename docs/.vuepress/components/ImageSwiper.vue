@@ -81,6 +81,7 @@ export default {
       '/news_images/3.jpg',
       '/news_images/4.jpg',
       '/news_images/5.jpg',
+      '/news_images/6.jpg',
       ]
     })
 

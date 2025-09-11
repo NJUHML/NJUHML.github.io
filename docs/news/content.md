@@ -1,3 +1,7 @@
+- <Badge type="danger" text="2025-9" vertical="middle" /> [袁慧玲教授][袁慧玲]荣获南京大学“师德先进”个人。
+
+<p style="margin-bottom: 0.5em;"></p>
+
 - <Badge type="danger" text="2025-8" vertical="middle" /> [陈文斌][]、[谢有涌][]获得第七届中尺度气象学研讨会优秀海报奖。
 
 <p style="margin-bottom: 0.5em;"></p>
