@@ -12,8 +12,9 @@
   - 国家自然科学基金气象联合基金重点项目（2024-2027）：
     - 面向长三角地区精细化气象保障服务的机器学习算法研究
 
-## 指导老师
+## 合作老师
 - [Sandro F. Veiga][sandro个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
+- [陈婕][陈婕个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
 
 ## 博士后
 - [苟琪琪][苟琪琪个人主页] - 博士后
@@ -93,9 +94,11 @@
 
 [袁慧玲个人主页]: https://as.nju.edu.cn/60/20/c11339a483360/page.htm
 [sandro个人主页]: https://nh.nju.edu.cn/info/1051/6511.htm
+[陈婕个人主页]: https://nh.nju.edu.cn/info/1051/6351.htm
 [南京大大气科学学院网页]: https://as.nju.edu.cn/main.htm
 [南赫首页]: https://nh.nju.edu.cn/
 [苟琪琪个人主页]: https://as.nju.edu.cn/ad/e5/c56581a634341/page.htm
+
 
 [王婧羽]: /member/student/wangjingyu.html
 [陈文斌]: /member/student/chenwenbin.html
