@@ -5,7 +5,7 @@
 
 2. 博士后或专职科研1-2名（合作导师：袁慧玲教授）。围绕深度学习天气预报模型领域开展系统深入的研究工作，包括AI气象模型、数据同化、数值模式、深度学习算法等。
  
-3. Sandro Veiga老师招聘博后一名，详见 https://mp.weixin.qq.com/s/iqUthtc4oA0rhrPoMw6cWA
+3. Sandro Veiga老师招聘博后一名，详见 <https://mp.weixin.qq.com/s/iqUthtc4oA0rhrPoMw6cWA>
 
 ## 特别欢迎
 1. 对气象模式，人工智能预报感兴趣，想要动手尝试的。<p style="margin-bottom: 0.5em;"></p>
