@@ -43,7 +43,7 @@ export default defineUserConfig({
         link: '/news/',
       },
       {
-        text: '联系我们',
+        text: '加入我们',
         link: '/us/',
       },
     ],
