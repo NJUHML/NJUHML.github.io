@@ -13,8 +13,10 @@
     - 面向长三角地区精细化气象保障服务的机器学习算法研究
 
 ## 合作老师
+- [杨龙][杨龙个人主页] - [南京大学地理与海洋科学学院][]教授，博士生导师。
 - [Sandro F. Veiga][sandro个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
 - [陈婕][陈婕个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
+
 
 ## 博士后
 - [苟琪琪][苟琪琪个人主页] - 博士后
@@ -98,6 +100,8 @@
 [南京大大气科学学院网页]: https://as.nju.edu.cn/main.htm
 [南赫首页]: https://nh.nju.edu.cn/
 [苟琪琪个人主页]: https://as.nju.edu.cn/ad/e5/c56581a634341/page.htm
+[杨龙个人主页]: https://sgos.nju.edu.cn/yl/list.htm
+[南京大学地理与海洋科学学院]: https://sgos.nju.edu.cn/main.htm
 
 
 [王婧羽]: /member/student/wangjingyu.html
