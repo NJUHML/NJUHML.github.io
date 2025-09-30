@@ -14,6 +14,7 @@
 
 ## 合作老师
 - [杨龙][杨龙个人主页] - [南京大学地理与海洋科学学院][]教授，博士生导师。
+- [Cam-Tu Nguyen][Cam-Tu Nguyen个人主页] - [南京大学人工智能学院][]副教授，博士生导师。
 - [Sandro F. Veiga][sandro个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
 - [陈婕][陈婕个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
 
@@ -97,11 +98,13 @@
 [袁慧玲个人主页]: https://as.nju.edu.cn/60/20/c11339a483360/page.htm
 [sandro个人主页]: https://nh.nju.edu.cn/info/1051/6511.htm
 [陈婕个人主页]: https://nh.nju.edu.cn/info/1051/6351.htm
+[Cam-Tu Nguyen个人主页]: https://ai.nju.edu.cn/CamTuNguyen/
 [南京大大气科学学院网页]: https://as.nju.edu.cn/main.htm
 [南赫首页]: https://nh.nju.edu.cn/
 [苟琪琪个人主页]: https://as.nju.edu.cn/ad/e5/c56581a634341/page.htm
 [杨龙个人主页]: https://sgos.nju.edu.cn/yl/list.htm
 [南京大学地理与海洋科学学院]: https://sgos.nju.edu.cn/main.htm
+[南京大学人工智能学院]: https://ai.nju.edu.cn/
 
 
 [王婧羽]: /member/student/wangjingyu.html
