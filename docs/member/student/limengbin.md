@@ -5,7 +5,7 @@
 
 <br><br><br>
 &ensp;&ensp; <b><font size="+3" face="楷书"> 李孟斌 </font></b><br /><br />
-&ensp;&ensp; 硕士，[NJUHML Group][NJUHML Group]<br />
+&ensp;&ensp; 博士，[NJUHML Group][NJUHML Group]<br />
 &ensp;&ensp; [南京大学大气科学学院][]<br /><br />
 &ensp;&ensp; __Email: mengbinli@smail.nju.edu.cn__
 <br /><br /><br /><br />
