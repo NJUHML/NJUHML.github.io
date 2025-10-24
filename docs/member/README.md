@@ -17,6 +17,7 @@
 - [Cam-Tu Nguyen][Cam-Tu Nguyen个人主页] - [南京大学人工智能学院][]副教授，博士生导师。
 - [Sandro F. Veiga][sandro个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
 - [陈婕][陈婕个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
+- [杨博雷][杨博雷个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
 
 
 ## 博士后
@@ -103,6 +104,7 @@
 [南赫首页]: https://nh.nju.edu.cn/
 [苟琪琪个人主页]: https://as.nju.edu.cn/ad/e5/c56581a634341/page.htm
 [杨龙个人主页]: https://sgos.nju.edu.cn/yl/list.htm
+[杨博雷个人主页]: https://nh.nju.edu.cn/info/1051/7451.htm
 [南京大学地理与海洋科学学院]: https://sgos.nju.edu.cn/main.htm
 [南京大学人工智能学院]: https://ai.nju.edu.cn/
 
