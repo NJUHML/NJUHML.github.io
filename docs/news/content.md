@@ -1,3 +1,7 @@
+- <Badge type="danger" text="2025-9" vertical="middle" /> 戴乐言同学荣获第36届中国气象学会年会优秀口头报告奖。
+
+<p style="margin-bottom: 0.5em;"></p>
+
 - <Badge type="danger" text="2025-9" vertical="middle" /> [袁慧玲教授][袁慧玲]荣获南京大学“师德先进”个人。
 
 <p style="margin-bottom: 0.5em;"></p>
