@@ -1,4 +1,8 @@
-- <Badge type="danger" text="2025-9" vertical="middle" /> 戴乐言同学荣获第36届中国气象学会年会优秀口头报告奖。
+- <Badge type="danger" text="2025-10" vertical="middle" /> 戴乐言同学荣获第36届中国气象学会年会优秀口头报告奖。
+
+<p style="margin-bottom: 0.5em;"></p>
+
+- <Badge type="tip" text="2025-10" vertical="middle" /> 祝第三季度生日的同学生日快乐。
 
 <p style="margin-bottom: 0.5em;"></p>
 
