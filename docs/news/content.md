@@ -1,8 +1,8 @@
-- <Badge type="tip" text="2025-10" vertical="middle" /> 师生共同观看苏超冠军赛，祝贺泰州市夺冠！
+- <Badge type="tip" text="2025-11" vertical="middle" /> 师生共同观看苏超冠军赛，祝贺泰州市夺冠！
 
 <p style="margin-bottom: 0.5em;"></p>
 
-- <Badge type="danger" text="2025-10" vertical="middle" /> [陈方亮][]，[马冠龙]，戴乐言在2025年江苏省研究生“AI赋能水模型，智能决策新未来”学术创新论坛分别荣获一项口头报告二等奖，和两项最佳展板报告奖。
+- <Badge type="danger" text="2025-11" vertical="middle" /> [陈方亮][]，[马冠龙]，戴乐言在2025年江苏省研究生“AI赋能水模型，智能决策新未来”学术创新论坛分别荣获一项口头报告二等奖，和两项最佳展板报告奖。
 
 <p style="margin-bottom: 0.5em;"></p>
 
