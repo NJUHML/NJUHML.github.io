@@ -82,6 +82,11 @@ export default {
       '/news_images/4.jpg',
       '/news_images/5.jpg',
       '/news_images/6.jpg',
+      '/news_images/7.jpg',
+      '/news_images/8.jpg',
+      '/news_images/9.jpg',
+      '/news_images/10.jpg',
+      '/news_images/11.jpg',
       ]
     })
 
