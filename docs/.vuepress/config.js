@@ -22,6 +22,7 @@ export default defineUserConfig({
         '/publish/award.md',
         '/publish/patent.md',
         '/publish/books.md',
+        '/publish/web.md',
       ],
       '/member/': false,
       '/news/': false,
