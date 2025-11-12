@@ -1,6 +1,8 @@
 # 论著
 
 ## 2025
+- Deng, G., Shen, X.*, Yuan, H*, Gong, J., Tong, H., Deng, L., Xu, Z., Chen, J., Sun J, Wang Y, Chen M, Wang J, Hu J, Zhu Y, Zhang Y, Li H, Wang Y, Gao L, Sheng L, Zhang H, Li D, Li L, Wang H, Chen C, Zhao Y, Zhao B, Li Y, Liu Z, Zhou Y, Chen F, Huo Z, Guo W, Zhang X, Gu W, Dai L, Zhang H, Lai Z. 2025. Research and application of CMA numerical weather prediction in meteorological support for the Beijing Winter Olympics (2022). Science China Earth Sciences. <https://www.sciengine.com/doi/10.1007/s11430-025-1713-4>.
+
 - Gou, Q., Yu, X., Dong, Y., Wang, X., & Yuan, H.* (2025). Climate‐dependent mechanisms accelerate flash droughts in drylands and humid regions. Geophysical Research Letters, 52, e2025GL118397. <https://doi.org/10.1029/2025GL118397> [<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/2d/20/c11323a797984/page.htm)
 
 - Yang, S., Nai, C., Liu, X., Li, W., Chao, J., Wang, J., Wang, L., Li, X., Chen, X., Lu, B., Xiao, Z., Boers, N., Yuan, H.*, Pan, B.*, 2025: Generative assimilation and prediction for weather and climate. arXiv:2503.03038. <https://doi.org/10.48550/arXiv.2503.03038>
@@ -13,6 +15,8 @@
 - Chen, J., Zhu, Y., Duan, W., Zhi, X., Min, J., Li, X., Deng, G., Yuan, H., Feng, J., Du, J. and Li, Q., 2025. A review on development, challenges, and future perspectives of ensemble forecast. Journal of Meteorological Research, 39(3), 534-558. <https://doi.org/10.1007/s13351-025-4909-4>
 
 - 陈静，朱跃建，段晚锁，智协飞，闵锦忠，李晓莉，邓国，袁慧玲，冯杰，杜钧，李巧萍，龚建东，沈学顺，穆穆. 2025. 集合预报进展、挑战及展望. 气象学报，83（3）（注：有英文版）：480-502. <https://doi.org/10.11676/qxxb2025.20240151> 
+
+- 邓国, 沈学顺*, 袁慧玲*, 龚建东, 佟华, 邓莲堂, 徐枝芳, 陈静, 孙健, 王勇, 陈明轩, 王建捷, 胡江凯, 朱跃建, 张玉涛, 李红祺, 王远哲, 高丽, 盛黎, 张涵斌, 李炟, 李莉, 王皓, 陈超辉, 赵颖, 赵滨, 李应林, 刘志丽, 周玉淑, 陈法敬, 霍自强, 郭文华, 张新诺, 顾文静, 戴玲玲, 张泓池, 赖子洋. 2025. CMA数值天气预报冬奥气象保障技术研究及应用. 中国科学: 地球科学, 55. （注：有英文版）<https://www.sciengine.com/doi/10.1360/SSTe-2025-0066>.
 
 
 ## 2024
