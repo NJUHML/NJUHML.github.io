@@ -1,3 +1,7 @@
+- <Badge type="danger" text="2025-11" vertical="middle" /> 祝贺[Sandro教授][sandro]和[陈婕教授][陈婕]在2025年江苏省高校中外合作办学外语教学大赛中获得三等奖。[陈婕教授][陈婕]教授同时荣获最受学生欢迎奖。
+
+<p style="margin-bottom: 0.5em;"></p>
+
 - <Badge type="tip" text="2025-11" vertical="middle" /> 师生共同观看苏超冠军赛，祝贺泰州市夺冠！
 
 <p style="margin-bottom: 0.5em;"></p>
@@ -30,11 +34,11 @@
 
 <p style="margin-bottom: 0.5em;"></p>
 
-- <Badge type="tip" text="2025-07" vertical="middle" /> 欢送两位外国交换生回国
+- <Badge type="tip" text="2025-07" vertical="middle" /> 欢送两位外国交换生回国。
 
 <p style="margin-bottom: 0.5em;"></p>
 
-- <Badge type="tip" text="2025-07" vertical="middle" /> 祝福本组2025届全体毕业生毕业快乐
+- <Badge type="tip" text="2025-07" vertical="middle" /> 祝福本组2025届全体毕业生毕业快乐。
 
 [袁慧玲]: https://as.nju.edu.cn/60/20/c11339a483360/page.htm
 [王婧羽]: /member/student/wangjingyu.html
@@ -59,3 +63,5 @@
 [李　翔]: /member/student/lixiang.html
 [黄　涵]: /member/student/huanghan.html
 [王秀智]: /member/student/wangxiuzhi.html
+[sandro]: https://nh.nju.edu.cn/info/1051/6511.htm
+[陈婕]: https://nh.nju.edu.cn/info/1051/6351.htm
