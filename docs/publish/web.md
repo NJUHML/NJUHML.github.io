@@ -1,6 +1,11 @@
 # 网络报道
 
 ## 课题组相关网络报道
+::: details [袁慧玲教授课题组在华南地区大气环流型与降水联系研究中取得新进展](https://as.nju.edu.cn/35/60/c11323a800096/page.htm)
+<Badge type="warning" text="相关论文" vertical="middle" />
+
+> 1. Chen, W., & Yuan, H. (2025). Influences of Large-Scale and Mesoscale Circulation Patterns on Precipitation during Rainy Seasons in South China. Monthly Weather Review, 153(8), 1513-1533. <https://doi.org/10.1175/MWR-D-24-0192.1>
+:::
 
 
 ::: details [袁慧玲教授课题组在全球骤发性干旱加速机制研究中取得新进展](https://as.nju.edu.cn/2d/20/c11323a797984/page.htm)

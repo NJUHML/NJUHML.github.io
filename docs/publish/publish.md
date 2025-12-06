@@ -1,6 +1,8 @@
 # 论著
 
 ## 2025
+- Chen, W., & Yuan, H. (2025). Influences of Large-Scale and Mesoscale Circulation Patterns on Precipitation during Rainy Seasons in South China. Monthly Weather Review, 153(8), 1513-1533. <https://doi.org/10.1175/MWR-D-24-0192.1>
+
 - Deng, G., Shen, X.\*, Yuan, H\*, Gong, J., Tong, H., Deng, L., Xu, Z., Chen, J., Sun J, Wang Y, Chen M, Wang J, Hu J, Zhu Y, Zhang Y, Li H, Wang Y, Gao L, Sheng L, Zhang H, Li D, Li L, Wang H, Chen C, Zhao Y, Zhao B, Li Y, Liu Z, Zhou Y, Chen F, Huo Z, Guo W, Zhang X, Gu W, Dai L, Zhang H, Lai Z. 2025. Research and application of CMA numerical weather prediction in meteorological support for the Beijing Winter Olympics (2022). Science China Earth Sciences. <https://www.sciengine.com/doi/10.1007/s11430-025-1713-4>.
 
 - Gou, Q., Yu, X., Dong, Y., Wang, X., & Yuan, H.\* (2025). Climate‐dependent mechanisms accelerate flash droughts in drylands and humid regions. Geophysical Research Letters, 52, e2025GL118397. <https://doi.org/10.1029/2025GL118397> [<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/2d/20/c11323a797984/page.htm)
