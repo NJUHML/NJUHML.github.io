@@ -11,7 +11,7 @@
 1. 对气象模式，人工智能预报感兴趣，想要动手尝试的。<p style="margin-bottom: 0.5em;"></p>
 2. 想做出和盘古，伏羲，Graphcast等相似的人工智能气象大模型。<p style="margin-bottom: 0.5em;"></p>
 3. 如果有感兴趣的想法，会立刻动手去尝试。<p style="margin-bottom: 0.5em;"></p>
-4. 喜欢计算机编程。<p style="margin-bottom: 0.5em;"></p>
+4. 喜欢计算机编程、数模竞赛等。<p style="margin-bottom: 0.5em;"></p>
 5. 为人诚恳，乐于合作，沟通高效。<p style="margin-bottom: 0.5em;"></p>
 
 
