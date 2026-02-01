@@ -1,5 +1,8 @@
 # 论著
 
+## 2026
+- Zhang, Z., Yuan, H.*, 2026: Precipfusionnet: A unified deep learning model for improving numerical Precipitation Prediction. Journal of Geophysical Research: Machine Learning and Computation, 3, e2025JH000887.  <https://doi.org/10.1029/2025JH000887>
+
 ## 2025
 - Deng, G., Shen, X.\*, Yuan, H\*, Gong, J., Tong, H., Deng, L., Xu, Z., Chen, J., Sun J, Wang Y, Chen M, Wang J, Hu J, Zhu Y, Zhang Y, Li H, Wang Y, Gao L, Sheng L, Zhang H, Li D, Li L, Wang H, Chen C, Zhao Y, Zhao B, Li Y, Liu Z, Zhou Y, Chen F, Huo Z, Guo W, Zhang X, Gu W, Dai L, Zhang H, Lai Z. 2025. Research and application of CMA numerical weather prediction in meteorological support for the Beijing Winter Olympics (2022). Science China Earth Sciences. <https://www.sciengine.com/doi/10.1007/s11430-025-1713-4>.
 
