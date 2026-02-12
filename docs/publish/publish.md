@@ -1,6 +1,8 @@
 # 论著
 
 ## 2026
+- Dong, Y., Yuan, H.*, 2026: China’s 1 km Daily Surface Soil Moisture Fusion Dataset (2000–2025) based on Explainable Machine Learning. Advances in Atmospheric Sciences. <https:/doi.org/10.1007/s00376-026-5612-9>
+
 - Liu, B., Zhang, H., Yuan, H., Wang, D., Li, Y., Chen, F., Wu, H.*, 2026: WADEPre: A Wavelet-based Decomposition Model for Extreme Precipitation Nowcasting with Multi-Scale Learning. arXiv:2602.02096.  <https://doi.org/10.48550/arXiv.2602.02096>
 
 - Zhang, Z., Yuan, H.*, 2026: Precipfusionnet: A unified deep learning model for improving numerical Precipitation Prediction. Journal of Geophysical Research: Machine Learning and Computation, 3, e2025JH000887.  <https://doi.org/10.1029/2025JH000887>
