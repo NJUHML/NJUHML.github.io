@@ -2,7 +2,7 @@
 
 <p style="margin-bottom: 0.5em;"></p>
 
-- <Badge type="danger" text="2025-11" vertical="middle" /> 祝贺[Sandro教授][sandro]和[陈婕教授][陈婕]在2025年江苏省高校中外合作办学外语教学大赛中获得三等奖。[陈婕教授][陈婕]教授同时荣获最受学生欢迎奖。
+- <Badge type="danger" text="2025-11" vertical="middle" /> 祝贺[Sandro教授][sandro]和[陈婕教授][陈婕]在2025年江苏省高校中外合作办学外语教学大赛中获得三等奖。[陈婕教授][陈婕]同时荣获最受学生欢迎奖。
 
 <p style="margin-bottom: 0.5em;"></p>
 
