@@ -1,6 +1,8 @@
 # 论著
 
 ## 2026
+- Dong, Y., Wang, S.*, Yuan, H., Xu, F., Chen, W., Huang, Y., et al. (2026). How lateral flow impacts heavy rainfall in complex terrain: A composite analysis over the southern Anhui mountainous region. Journal of Geophysical Research: Atmospheres, 131, e2025JD045410. <https://doi.org/10.1029/2025JD045410>
+
 - Sun, M., Dai, J., Yuan, H.*, Xu, J., Chen, H., Zhu, J., 2026: Sea-breeze and gust front influences on supercell evolution: Observational and numerical insights. Atmospheric Research, 108885. <http://doi.org/10.1016/j.atmosres.2026.108885>
 
 - Dong, Y., Yuan, H.*, 2026: China’s 1 km Daily Surface Soil Moisture Fusion Dataset (2000–2025) based on Explainable Machine Learning. Advances in Atmospheric Sciences. <https:/doi.org/10.1007/s00376-026-5612-9>
