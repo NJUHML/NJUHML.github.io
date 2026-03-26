@@ -1,6 +1,12 @@
 # 网络报道
 
 ## 课题组相关网络报道
+::: details [袁慧玲教授课题组在深度学习降水偏差订正研究中取得新进展](https://as.nju.edu.cn/a3/b1/c11323a828337/page.htm)
+<Badge type="warning" text="相关论文" vertical="middle" />
+
+> 1. Zhang, Z., Yuan, H.*, 2026: Precipfusionnet: A unified deep learning model for improving numerical Precipitation Prediction. Journal of Geophysical Research: Machine Learning and Computation, 3, e2025JH000887.  <https://doi.org/10.1029/2025JH000887>
+:::
+
 ::: details [袁慧玲教授课题组在华南地区大气环流型与降水联系研究中取得新进展](https://as.nju.edu.cn/35/60/c11323a800096/page.htm)
 <Badge type="warning" text="相关论文" vertical="middle" />
 
