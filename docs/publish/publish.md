@@ -1,6 +1,8 @@
 # 论著
 
 ## 2026
+- Wang, Y., Chen, H., Wu, H., Liu, J.*, Yuan, H.*, Cao, S., Wang, T., Zhuang, B. (2026). Physics‐constrained network for enhanced extended‐range precipitation forecasting in East Asia. Geophysical Research Letters, 53, e2025GL120379. <https://doi.org/10.1029/2025GL120379>
+
 - Dong, Y., Wang, S.*, Yuan, H., Xu, F., Chen, W., Huang, Y., et al. (2026). How lateral flow impacts heavy rainfall in complex terrain: A composite analysis over the southern Anhui mountainous region. Journal of Geophysical Research: Atmospheres, 131, e2025JD045410. <https://doi.org/10.1029/2025JD045410>
 
 - Sun, M., Dai, J., Yuan, H.*, Xu, J., Chen, H., Zhu, J., 2026: Sea-breeze and gust front influences on supercell evolution: Observational and numerical insights. Atmospheric Research, 108885. <http://doi.org/10.1016/j.atmosres.2026.108885>
