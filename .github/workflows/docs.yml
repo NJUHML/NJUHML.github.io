@@ -5,6 +5,7 @@ on:
     branches:
       # 确保这是你正在使用的分支名称
       - main
+  workflow_dispatch: # 添加这一行，可以在 GitHub 页面手动点按钮运行
 
 permissions:
   contents: write
