@@ -1,6 +1,12 @@
 # 网络报道
 
 ## 课题组相关网络报道
+::: details [Machine learning facilitates the development of China's 1-km daily soil moisture dataset](https://www.eurekalert.org/news-releases/1125987)
+<Badge type="warning" text="相关论文" vertical="middle" />
+
+> 1. Dong, Y., Yuan, H.*, 2026: China’s 1 km Daily Surface Soil Moisture Fusion Dataset (2000–2025) based on Explainable Machine Learning. Advances in Atmospheric Sciences.  <https://doi.org/10.1007/s00376-026-5612-9>
+:::
+
 ::: details [袁慧玲教授课题组在深度学习降水偏差订正研究中取得新进展](https://as.nju.edu.cn/a3/b1/c11323a828337/page.htm)
 <Badge type="warning" text="相关论文" vertical="middle" />
 
