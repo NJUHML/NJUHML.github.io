@@ -1,3 +1,5 @@
+- <Badge type="danger" text="2026-05" vertical="middle" /> [范禹韬][]在第二届集合预报预测学术研讨会荣获优秀口头报告奖。
+
 - <Badge type="important" text="2026-05" vertical="middle" />美国科学促进会（AAAS，《Science》期刊的主办与出版机构）旗下的科学新闻发布平台 EurekAlert! 对该研究成果进行了报道，并通过新闻推送介绍了[“Machine learning facilitates the development of China’s 1-km daily soil moisture dataset”](https://www.eurekalert.org/news-releases/1125987)。
 
 - <Badge type="important" text="2026-01" vertical="middle" /> [张子逸][]、[袁慧玲][]的论文[" PrecipFusionNet: A Unified Deep Learning Model for Improving Numerical Precipitation Prediction "](https://doi.org/10.1029/2025JH000887)已被AGU收录。
