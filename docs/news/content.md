@@ -1,3 +1,5 @@
+- <Badge type="danger" text="2025-05" vertical="middle" /> [袁慧玲][]教授，在[AAS第17期前沿论坛](https://mp.weixin.qq.com/s/JUkFcnzICx1wAbjoiVxDZw)做“中国区域逐日1km分辨率多源融合土壤湿度数据集”报告。
+
 - <Badge type="danger" text="2026-05" vertical="middle" /> [范禹韬][]在第二届集合预报预测学术研讨会荣获优秀口头报告奖。
 
 - <Badge type="important" text="2026-05" vertical="middle" />美国科学促进会（AAAS，《Science》期刊的主办与出版机构）旗下的科学新闻发布平台 EurekAlert! 对该研究成果进行了报道，并通过新闻推送介绍了[“Machine learning facilitates the development of China’s 1-km daily soil moisture dataset”](https://www.eurekalert.org/news-releases/1125987)。

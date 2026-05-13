@@ -1,6 +1,8 @@
 # 网络报道
 
 ## 课题组相关网络报道
+> [AAS第17期前沿论坛| 数据论文：从观测到模拟的地球系统多圈层数据出版实践与全景展示](https://mp.weixin.qq.com/s/JUkFcnzICx1wAbjoiVxDZw)
+
 ::: details [Machine learning facilitates the development of China's 1-km daily soil moisture dataset](https://www.eurekalert.org/news-releases/1125987)
 <Badge type="warning" text="相关论文" vertical="middle" />
 
