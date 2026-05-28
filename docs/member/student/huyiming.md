@@ -1,7 +1,7 @@
 # 胡义铭
 ----
 
-<img align="left" src="/member/picture/huyiming.jpg" width="220px" height="320px" />
+<img align="left" src="/member/picture/huyiming.webp" width="220px" height="320px" />
 
 <br><br><br>
 &ensp;&ensp; <b><font size="+3" face="楷书"> 胡义铭 </font></b><br /><br />

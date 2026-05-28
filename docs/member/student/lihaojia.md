@@ -1,7 +1,7 @@
 # 李昊佳
 ----
 
-<img align="left" src="/member/picture/lihaojia.png" width="220px" height="320px" />
+<img align="left" src="/member/picture/lihaojia.webp" width="220px" height="320px" />
 
 <br><br><br>
 &ensp;&ensp; <b><font size="+3" face="楷书"> 李昊佳 </font></b><br /><br />

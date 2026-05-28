@@ -1,7 +1,7 @@
 # 李孟斌
 ---
 
-<img align="left" src="/member/picture/limengbin.jpg" width="220px" height="320px" />
+<img align="left" src="/member/picture/limengbin.webp" width="220px" height="320px" />
 
 <br><br><br>
 &ensp;&ensp; <b><font size="+3" face="楷书"> 李孟斌 </font></b><br /><br />

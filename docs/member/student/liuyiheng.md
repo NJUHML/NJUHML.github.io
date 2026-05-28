@@ -1,7 +1,7 @@
 # 刘屹恒
 ----
 
-<img align="left" src="/member/picture/liuyiheng.png" width="220px" height="320px" />
+<img align="left" src="/member/picture/liuyiheng.webp" width="220px" height="320px" />
 
 <br><br><br>
 &ensp;&ensp; <b><font size="+3" face="楷书"> 刘屹恒 </font></b><br /><br />

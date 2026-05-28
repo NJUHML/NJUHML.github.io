@@ -1,7 +1,7 @@
 # 王秀智
 ----
 
-<img align="left" src="/member/picture/wangxiuzhi.jpg" width="220px" height="320px" />
+<img align="left" src="/member/picture/wangxiuzhi.webp" width="220px" height="320px" />
 
 <br><br><br>
 &ensp;&ensp; <b><font size="+3" face="楷书"> 王秀智 </font></b><br /><br />

@@ -2,7 +2,7 @@
 
 ---
 
-<img align="left" src="/member/picture/zhangziyi.png" width="220px" height="320px" />
+<img align="left" src="/member/picture/zhangziyi.webp" width="220px" height="320px" />
 
 <br><br><br>
 &ensp;&ensp; <b><font size="+3" face="楷书"> 张子逸 </font></b><br /><br />

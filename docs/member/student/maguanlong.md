@@ -1,7 +1,7 @@
 # 马冠龙
 ---
 
-<img align="left" src="/member/picture/maguanlong.jpg" width="220px" height="320px" />
+<img align="left" src="/member/picture/maguanlong.webp" width="220px" height="320px" />
 
 <br><br><br>
 &ensp;&ensp; <b><font size="+3" face="楷书"> 马冠龙 </font></b><br /><br />

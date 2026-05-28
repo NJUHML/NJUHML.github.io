@@ -76,17 +76,17 @@ export default {
       // images.value = tempArray.reverse()
 
       images.value = [
-      '/news_images/1.jpg',
-      '/news_images/2.jpg',
-      '/news_images/3.jpg',
-      '/news_images/4.jpg',
-      '/news_images/5.jpg',
-      '/news_images/6.jpg',
-      '/news_images/7.jpg',
-      '/news_images/8.jpg',
-      '/news_images/9.jpg',
-      '/news_images/10.jpg',
-      '/news_images/11.jpg',
+      '/news_images/1.webp',
+      '/news_images/2.webp',
+      '/news_images/3.webp',
+      '/news_images/4.webp',
+      '/news_images/5.webp',
+      '/news_images/6.webp',
+      '/news_images/7.webp',
+      '/news_images/8.webp',
+      '/news_images/9.webp',
+      '/news_images/10.webp',
+      '/news_images/11.webp',
       ]
     })
 

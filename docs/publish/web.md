@@ -147,10 +147,10 @@
 > [【福利】袁慧玲：《少有人走的路》带你认识自我](https://mp.weixin.qq.com/s/FytUny-ZDM3ZrssSR-3u_Q)
 
 ::: details 教衡201606-第32期
-![alt](/JIAO_HENG/JIAOHENG1.png)
-![alt](/JIAO_HENG/JIAOHENG2.png)
-![alt](/JIAO_HENG/JIAOHENG3.png)
-![alt](/JIAO_HENG/JIAOHENG4.png)
-![alt](/JIAO_HENG/JIAOHENG5.png)
-![alt](/JIAO_HENG/JIAOHENG6.png)
+![alt](/JIAO_HENG/JIAOHENG1.webp)
+![alt](/JIAO_HENG/JIAOHENG2.webp)
+![alt](/JIAO_HENG/JIAOHENG3.webp)
+![alt](/JIAO_HENG/JIAOHENG4.webp)
+![alt](/JIAO_HENG/JIAOHENG5.webp)
+![alt](/JIAO_HENG/JIAOHENG6.webp)
 :::
