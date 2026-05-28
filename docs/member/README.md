@@ -133,7 +133,7 @@
 [范禹韬]: /member/student/fanyutao.html
 [黄　柯]: /member/student/huangke.html
 [唐嘉宁]: /member/student/tangjianing.html
-[马冠龙]: /member/student/maguanlong.html
+[马冠龙]: https://mgl666.github.io/
 [张子逸]: /member/student/zhangziyi.html
 [葛星宇]: /member/student/gexingyu.html
 [赵　阳]: /member/student/zhaoyang.html
