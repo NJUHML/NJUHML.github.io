@@ -5,6 +5,9 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
+    "predocs:build": "node scripts/generate-latest-news-images.mjs",
+    "predocs:clean-dev": "node scripts/generate-latest-news-images.mjs",
+    "predocs:dev": "node scripts/generate-latest-news-images.mjs",
     "docs:build": "vuepress build docs",
     "docs:clean-dev": "vuepress dev docs --clean-cache",
     "docs:dev": "vuepress dev docs",

@@ -28,8 +28,7 @@ Our research focuses on hydrometeorological numerical modeling, AI weather model
 
 ## Latest News
 
-![alt](/news_images/1.webp){width="50%"}
-![alt](/news_images/2.webp){.floay:right, width="50%"}
+<LatestNewsImages />
 
 <!-- @include: ./news/content.md -->
 

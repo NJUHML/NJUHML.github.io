@@ -30,15 +30,15 @@
 </template>
 
 <script>
-
 import { Swiper, SwiperSlide } from 'swiper/vue'
-import { Navigation, Pagination, Scrollbar, Autoplay } from 'swiper/modules';
+import { Navigation, Pagination, Scrollbar, Autoplay } from 'swiper/modules'
 import { ref, onMounted, computed } from 'vue'
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
-import 'swiper/css/scrollbar';
-import 'swiper/css/autoplay';
+import allNewsImages from '../generated/allNewsImages.js'
+import 'swiper/css'
+import 'swiper/css/navigation'
+import 'swiper/css/pagination'
+import 'swiper/css/scrollbar'
+import 'swiper/css/autoplay'
 
 export default {
   components: {
@@ -60,37 +60,15 @@ export default {
   setup(props) {
     const swiperStyle = computed(() => ({
       width: props.width,
-      height: props.height
-    }));
+      height: props.height,
+    }))
 
-    const onSwiper = () => {};
-    const onSlideChange = () => {};
+    const onSwiper = () => {}
+    const onSlideChange = () => {}
     const images = ref([])
-    
-    onMounted(() => {
-      // 获取 /news/picture/ 目录下的所有图片
-      // const imageFiles = import.meta.glob('/news_images/*.{jpg,png,gif,webp}')
-      
-      // // 转换为图片路径数组
-      // const tempArray = []
-      // for (const path in imageFiles) {
-      //   tempArray.push(path)
-      // }
-      // images.value = tempArray.reverse()
 
-      images.value = [
-      '/news_images/1.webp',
-      '/news_images/2.webp',
-      '/news_images/3.webp',
-      '/news_images/4.webp',
-      '/news_images/5.webp',
-      '/news_images/6.webp',
-      '/news_images/7.webp',
-      '/news_images/8.webp',
-      '/news_images/9.webp',
-      '/news_images/10.webp',
-      '/news_images/11.webp',
-      ]
+    onMounted(() => {
+      images.value = allNewsImages
     })
 
     return {
@@ -100,7 +78,7 @@ export default {
       images,
       swiperStyle,
     }
-  }
+  },
 }
 </script>
 
