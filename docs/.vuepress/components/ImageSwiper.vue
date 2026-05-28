@@ -1,6 +1,7 @@
 <template>
   <ClientOnly>
     <Swiper 
+      class="news-swiper"
       :modules="modules"
       :slides-per-view="1"
       :space-between="50"
@@ -16,7 +17,13 @@
       }"
     >
       <SwiperSlide v-for="(img, index) in images" :key="index">
-        <img :src="img" :alt="'图片' + (index+1)" style="width: 100%">
+        <div class="news-swiper__slide">
+          <img
+            :src="img"
+            :alt="'图片' + (index + 1)"
+            class="news-swiper__image"
+          >
+        </div>
       </SwiperSlide>
     </Swiper>
   </ClientOnly>
@@ -56,12 +63,8 @@ export default {
       height: props.height
     }));
 
-    const onSwiper = (swiper) => {
-      console.log(swiper);
-    };
-    const onSlideChange = () => {
-      console.log('slide change');
-    };
+    const onSwiper = () => {};
+    const onSlideChange = () => {};
     const images = ref([])
     
     onMounted(() => {
@@ -100,3 +103,38 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+.news-swiper {
+  max-width: 100%;
+  overflow: hidden;
+  border-radius: 12px;
+  background: #f5f7fa;
+}
+
+.news-swiper :deep(.swiper-wrapper),
+.news-swiper :deep(.swiper-slide) {
+  height: 100%;
+}
+
+.news-swiper__slide {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #f5f7fa;
+}
+
+.news-swiper__image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+@media (max-width: 719px) {
+  .news-swiper {
+    border-radius: 8px;
+  }
+}
+</style>
