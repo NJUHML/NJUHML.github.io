@@ -103,6 +103,10 @@
 | 硕士 | 上海气象台          | 上海   |2人|
 | 硕士 | 苏州气象局          | 苏州   |1人|
 | 硕士 | 深圳气象台          | 深圳   |1人|
+| 硕士 | 易方达            | 广州   |1人|
+| 硕士 | 镭测创芯科技有限公司  | 青岛   |1人|
+| 硕士 |Environmental Defense Fund Climate Corps | 兰溪|1人|
+| 博士 | 福建气象台         |  福建|1 人|
 
 [袁慧玲个人主页]: https://as.nju.edu.cn/60/20/c11339a483360/page.htm
 [sandro个人主页]: https://nh.nju.edu.cn/info/1051/6511.htm

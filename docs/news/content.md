@@ -1,4 +1,4 @@
-- <Badge type="danger" text="2025-05" vertical="middle" /> [袁慧玲][]教授，在[AAS第17期前沿论坛](https://mp.weixin.qq.com/s/JUkFcnzICx1wAbjoiVxDZw)做“中国区域逐日1km分辨率多源融合土壤湿度数据集”报告。
+- <Badge type="danger" text="2026-05" vertical="middle" /> [袁慧玲][]教授，在[AAS第17期前沿论坛](https://mp.weixin.qq.com/s/JUkFcnzICx1wAbjoiVxDZw)做“中国区域逐日1km分辨率多源融合土壤湿度数据集”报告。
 
 - <Badge type="danger" text="2026-05" vertical="middle" /> [范禹韬][]在第二届集合预报预测学术研讨会荣获优秀口头报告奖。
 
