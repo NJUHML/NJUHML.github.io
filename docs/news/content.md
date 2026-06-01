@@ -1,8 +1,18 @@
+- <Badge type="danger" text="2026-05" vertical="middle" /> 5月28日，[南京大学侨联第七次代表大会](https://www.nju.edu.cn/info/1055/471501.htm)在仙林校区召开。南京大学党委书记、中国侨联副主席、中国科学院院士谭铁牛，江苏省委统战部副部长刘步健，江苏省侨联党组书记、主席刘标出席会议并讲话，中国侨联发来贺信。大会选举产生了南京大学侨联第七届委员会及领导班子，施毅院士当选为主席，[袁慧玲][]教授当选为副主席，并兼任栖霞区侨联副主席、南大欧美同学会副会长。
+
+<p style="margin-bottom: 0.5em;"></p>
+
 - <Badge type="danger" text="2026-05" vertical="middle" /> [袁慧玲][]教授，在[AAS第17期前沿论坛](https://mp.weixin.qq.com/s/JUkFcnzICx1wAbjoiVxDZw)做“中国区域逐日1km分辨率多源融合土壤湿度数据集”报告。
+
+<p style="margin-bottom: 0.5em;"></p>
 
 - <Badge type="danger" text="2026-05" vertical="middle" /> [范禹韬][]在第二届集合预报预测学术研讨会荣获优秀口头报告奖。
 
+<p style="margin-bottom: 0.5em;"></p>
+
 - <Badge type="important" text="2026-05" vertical="middle" />美国科学促进会（AAAS，《Science》期刊的主办与出版机构）旗下的科学新闻发布平台 EurekAlert! 对该研究成果进行了报道，并通过新闻推送介绍了[“Machine learning facilitates the development of China’s 1-km daily soil moisture dataset”](https://www.eurekalert.org/news-releases/1125987)。
+
+<p style="margin-bottom: 0.5em;"></p>
 
 - <Badge type="important" text="2026-01" vertical="middle" /> [张子逸][]、[袁慧玲][]的论文[" PrecipFusionNet: A Unified Deep Learning Model for Improving Numerical Precipitation Prediction "](https://doi.org/10.1029/2025JH000887)已被AGU收录。
 
@@ -28,7 +38,7 @@
 
 <p style="margin-bottom: 0.5em;"></p>
 
-- <Badge type="danger" text="2025-09" vertical="middle" /> [袁慧玲教授][袁慧玲]荣获南京大学“师德先进”个人。
+- <Badge type="danger" text="2025-09" vertical="middle" /> [袁慧玲][]教授荣获南京大学“师德先进”个人。
 
 <p style="margin-bottom: 0.5em;"></p>
 

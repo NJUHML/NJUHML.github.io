@@ -1,8 +1,18 @@
+- <Badge type="danger" text="2026-05" vertical="middle" /> On May 28, 2026, the 7th Congress of the Returned Overseas Chinese Federation of Nanjing University was held at the Xianlin Campus. The meeting elected the 7th committee and leadership team. Academician Yi Shi was elected chair, and Professor [Huiling Yuan][] was elected vice chair. She also serves as vice chair of the Qixia District Returned Overseas Chinese Federation and vice president of the Nanjing University Western Returned Scholars Association.
+
+<p style="margin-bottom: 0.5em;"></p>
+
 - <Badge type="danger" text="2026-05" vertical="middle" /> Professor [Huiling Yuan][] gave a talk on the China 1-km daily multi-source fused soil moisture dataset at the [17th AAS Frontier Forum](https://mp.weixin.qq.com/s/JUkFcnzICx1wAbjoiVxDZw).
+
+<p style="margin-bottom: 0.5em;"></p>
 
 - <Badge type="danger" text="2026-05" vertical="middle" /> [Yutao Fan][] received the Excellent Oral Presentation Award at the 2nd Symposium on Ensemble Forecasting and Prediction.
 
+<p style="margin-bottom: 0.5em;"></p>
+
 - <Badge type="important" text="2026-05" vertical="middle" /> EurekAlert!, the science news platform operated by AAAS, featured the research result in [“Machine learning facilitates the development of China’s 1-km daily soil moisture dataset”](https://www.eurekalert.org/news-releases/1125987).
+
+<p style="margin-bottom: 0.5em;"></p>
 
 - <Badge type="important" text="2026-01" vertical="middle" /> The paper [“PrecipFusionNet: A Unified Deep Learning Model for Improving Numerical Precipitation Prediction”](https://doi.org/10.1029/2025JH000887) by [Ziyi Zhang][] and [Huiling Yuan][] was published by AGU.
 
