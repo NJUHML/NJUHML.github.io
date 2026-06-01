@@ -41,7 +41,7 @@
 - [黄　柯][] - 2025-Ph.D. student
 - [唐嘉宁][] - 2025-Ph.D. student
 - [王秀智][] - 2025-Ph.D. student-南赫
-- [刘柏田][] - 2026-Ph.D. student-南赫
+- [刘柏田][] - 2026-Ph.D. student
 
 ## 硕士研究生
 - [马冠龙][] - 2023-M.Sc student
