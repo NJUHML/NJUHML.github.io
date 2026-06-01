@@ -44,6 +44,7 @@
 - [Jianing Tang][] - Ph.D. student, 2025
 - [Xiuzhi Wang][] - Ph.D. student, 2025, NHI
 - [Baitian Liu][] - Ph.D. student, 2026, NHI
+- [Haiyang Wang][] - Ph.D. student, 2026
 
 ## M.S. Students
 
@@ -158,3 +159,4 @@
 [Yiming Hu]: /en/member/student/huyiming.html
 [Baitian Liu]: https://sonderlau.github.io/
 [Beibei Si]: /en/member/student/sibeibei.html
+[Haiyang Wang]: /en/member/student/wanghaiyang.html
