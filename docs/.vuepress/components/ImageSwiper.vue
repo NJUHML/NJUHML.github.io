@@ -87,7 +87,7 @@ export default {
   max-width: 100%;
   overflow: hidden;
   border-radius: 12px;
-  background: #f5f7fa;
+  background: #000;
 }
 
 .news-swiper :deep(.swiper-wrapper),
@@ -99,14 +99,17 @@ export default {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background: #f5f7fa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #000;
 }
 
 .news-swiper__image {
   display: block;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   object-position: center;
 }
 

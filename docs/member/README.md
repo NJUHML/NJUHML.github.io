@@ -18,6 +18,7 @@
 - [Sandro F. Veiga][sandro个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
 - [陈婕][陈婕个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
 - [杨博雷][杨博雷个人主页] - [南京大学南京赫尔辛基大气与地球系统科学学院][南赫首页]助理教授、博士生导师。
+- [潘宝祥][潘宝祥个人主页] - [中国科学院大气物理研究所][中国科学院大气物理研究所]硕士生导师。
 
 
 ## 博士后
@@ -40,6 +41,7 @@
 - [黄　柯][] - 2025-Ph.D. student
 - [唐嘉宁][] - 2025-Ph.D. student
 - [王秀智][] - 2025-Ph.D. student-南赫
+- [刘柏田][] - 2026-Ph.D. student-南赫
 
 ## 硕士研究生
 - [马冠龙][] - 2023-M.Sc student
@@ -52,6 +54,7 @@
 - [黄　涵][] - 2025-M.Sc student-南赫
 - [马苏东][] - 2025-M.Sc student-南赫
 - [胡义铭][] - 2025-M.Sc student-南赫
+- [司蓓蓓][] - 2026-M.Sc student-南赫
 
 ## 2020-至今毕业生就业情况
 | <div style="width:100px">学制 </div> | <div style="width:350px">毕业工作/职务</div> | <div style="width:50px"> 地点 </div>   | <div style="width:100px">备注</div> |
@@ -113,6 +116,8 @@
 [sandro个人主页]: https://nh.nju.edu.cn/info/1051/6511.htm
 [陈婕个人主页]: https://nh.nju.edu.cn/info/1051/6351.htm
 [Cam-Tu Nguyen个人主页]: https://ai.nju.edu.cn/CamTuNguyen/
+[潘宝祥个人主页]: https://people.ucas.ac.cn/~0074439
+
 [南京大大气科学学院网页]: https://as.nju.edu.cn/main.htm
 [南赫首页]: https://nh.nju.edu.cn/
 [苟琪琪个人主页]: https://as.nju.edu.cn/ad/e5/c56581a634341/page.htm
@@ -120,7 +125,7 @@
 [杨博雷个人主页]: https://nh.nju.edu.cn/info/1051/7451.htm
 [南京大学地理与海洋科学学院]: https://sgos.nju.edu.cn/main.htm
 [南京大学人工智能学院]: https://ai.nju.edu.cn/
-
+[中国科学院大气物理研究所]: https://iap.cas.cn/
 
 [王婧羽]: /member/student/wangjingyu.html
 [陈文斌]: /member/student/chenwenbin.html
@@ -147,3 +152,5 @@
 [李昊佳]: /member/student/lihaojia.html
 [马苏东]: /member/student/masudong.html
 [胡义铭]: /member/student/huyiming.html
+[刘柏田]: https://sonderlau.github.io/
+[司蓓蓓]: /member/student/sibeibei.html

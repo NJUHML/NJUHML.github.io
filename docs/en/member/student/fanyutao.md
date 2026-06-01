@@ -1,5 +1,15 @@
 # Yutao Fan
 
+---
+
+<!-- <img align="left" src="/member/picture/maguanlong.jpg" width="220px" height="320px" /> -->
+
+<br><br><br>
+&ensp;&ensp; <b><font size="+3" face="KaiTi"> Yutao Fan </font></b><br /><br />
+&ensp;&ensp; Ph.D., [NJUHML Group][NJUHML Group]<br />
+&ensp;&ensp; [School of Atmospheric Sciences, Nanjing University][SAS]<br /><br />
+<br /><br /><br /><br />
+
 Yutao Fan is a direct-entry Ph.D. student at the [School of Atmospheric Sciences, Nanjing University][SAS], after completing his undergraduate study there in 2024.
 
 ## Research Interests
@@ -15,5 +25,6 @@ Deep-learning-based precipitation diagnosis, interpretable machine learning, and
 ## Supervisor
 [Professor Huiling Yuan][Professor Yuan]
 
+[NJUHML Group]: /en/
 [SAS]: https://as.nju.edu.cn/main.htm
 [Professor Yuan]: https://as.nju.edu.cn/60/20/c11339a483360/page.htm

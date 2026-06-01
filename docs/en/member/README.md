@@ -20,6 +20,7 @@
 - [Sandro F. Veiga][Sandro] - Assistant Professor, [Nanjing-Helsinki Institute in Atmospheric and Earth System Sciences][NHI].
 - [Jie Chen][Jie Chen] - Assistant Professor, [Nanjing-Helsinki Institute in Atmospheric and Earth System Sciences][NHI].
 - [Bolei Yang][Bolei Yang] - Assistant Professor, [Nanjing-Helsinki Institute in Atmospheric and Earth System Sciences][NHI].
+- [Baoxiang Pan][Baoxiang Pan] - M.S. supervisor, [Institute of Atmospheric Physics, Chinese Academy of Sciences][IAP].
 
 ## Postdoctoral Researchers
 
@@ -42,6 +43,7 @@
 - [Ke Huang][] - Ph.D. student, 2025
 - [Jianing Tang][] - Ph.D. student, 2025
 - [Xiuzhi Wang][] - Ph.D. student, 2025, NHI
+- [Baitian Liu][] - Ph.D. student, 2026, NHI
 
 ## M.S. Students
 
@@ -55,10 +57,11 @@
 - [Han Huang][] - M.S. student, 2025, NHI
 - [Sudong Ma][] - M.S. student, 2025, NHI
 - [Yiming Hu][] - M.S. student, 2025, NHI
+- [Beibei Si][] - M.S. student, 2026, NHI
 
 ## Alumni Destinations Since 2020
 
-| Degree | Position / Employer | Location | Notes |
+| <div style="width:80px">Degree</div> | <div style="width:300px">Position / Employer</div> | <div style="width:50px">Location</div> | <div style="width:100px">Notes</div> |
 |:--:|---|:--:|---|
 | Ph.D. | Foshan Meteorological Bureau | Foshan |  |
 | Ph.D. | Xiamen Meteorological Bureau | Xiamen |  |
@@ -83,7 +86,7 @@
 
 ## Alumni Destinations Before 2020
 
-| Degree | Position / Employer | Location | Notes |
+| <div style="width:80px">Degree</div> | <div style="width:300px">Position / Employer</div> | <div style="width:50px">Location</div> | <div style="width:100px">Notes</div> |
 |:--:|---|:--:|---|
 | Ph.D. | Hohai University / Associate Professor | Nanjing | [Ruochen Sun](https://jszy.hhu.edu.cn/src1/) |
 | Ph.D. | CETC No. 28 Research Institute | Nanjing |  |
@@ -100,7 +103,7 @@
 
 ## Internships Since 2024
 
-| Degree | Organization | Location | Notes |
+| <div style="width:80px">Degree</div> | <div style="width:300px">Organization</div> | <div style="width:50px">Location</div> | <div style="width:100px">Notes</div> |
 |:--:|---|:--:|---|
 | M.S. | Alibaba DAMO Academy | Hangzhou | 2 students |
 | M.S. | Quantitative hedge fund | Shanghai | 1 student |
@@ -123,8 +126,10 @@
 [Qiqi Gou]: https://as.nju.edu.cn/ad/e5/c56581a634341/page.htm
 [Long Yang]: https://sgos.nju.edu.cn/yl/list.htm
 [Bolei Yang]: https://nh.nju.edu.cn/info/1051/7451.htm
+[Baoxiang Pan]: https://people.ucas.ac.cn/~0074439
 [SGOS]: https://sgos.nju.edu.cn/main.htm
 [AI School]: https://ai.nju.edu.cn/
+[IAP]: https://iap.cas.cn/
 
 [Jingyu Wang]: /en/member/student/wangjingyu.html
 [Wenbin Chen]: /en/member/student/chenwenbin.html
@@ -151,3 +156,5 @@
 [Haojia Li]: /en/member/student/lihaojia.html
 [Sudong Ma]: /en/member/student/masudong.html
 [Yiming Hu]: /en/member/student/huyiming.html
+[Baitian Liu]: https://sonderlau.github.io/
+[Beibei Si]: /en/member/student/sibeibei.html
