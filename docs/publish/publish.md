@@ -1,21 +1,23 @@
 # 论著
 
 ## 2026
-- Zhao, Y., Niu, P., Zhou, T., Ma, Z., Ma, G., Jin, R., Yuan, H., & Sun, L. (2026). Pushing the limits of high-resolution weather forecasting through data scaling. In European Conference on Computer Vision. Accepted. 
+- Dai, L., Yuan, H.\*, Liu, Y., Li, X., Gu, X., Li, J., Zhao, Y. (2026). Improving extreme precipitation forecasts via cascade binary classification with diffusion post-processing. Journal of Geophysical Research: Machine Learning and Computation. Accepted. 
 
-- Ma, G., Chen, W., Zhao, Y., Yuan, H., & Sun, L. (2026). RainCast: A high-resolution 72-hour short-term precipitation forecasting model. In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Accepted.  <https://doi.org/10.1145/3770855.3818880>
+- Zhao, Y., Niu, P., Zhou, T., Ma, Z., Ma, G., Jin, R., Yuan, H.\*, Sun, L.\* (2026). Pushing the limits of high-resolution weather forecasting through data scaling. In European Conference on Computer Vision. Accepted. 
 
-- Wang, Y., Chen, H., Wu, H., Liu, J.*, Yuan, H.*, Cao, S., Wang, T., Zhuang, B. (2026). Physics‐constrained network for enhanced extended‐range precipitation forecasting in East Asia. Geophysical Research Letters, 53, e2025GL120379. <https://doi.org/10.1029/2025GL120379>
+- Ma, G., Chen, W., Zhao, Y., Yuan, H.\*, & Sun, L.\* (2026). RainCast: A high-resolution 72-hour short-term precipitation forecasting model. In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Accepted.  <https://doi.org/10.1145/3770855.3818880>
 
-- Dong, Y., Wang, S.*, Yuan, H., Xu, F., Chen, W., Huang, Y., et al. (2026). How lateral flow impacts heavy rainfall in complex terrain: A composite analysis over the southern Anhui mountainous region. Journal of Geophysical Research: Atmospheres, 131, e2025JD045410. <https://doi.org/10.1029/2025JD045410>
+- Wang, Y., Chen, H., Wu, H., Liu, J.\*, Yuan, H.\*, Cao, S., Wang, T., Zhuang, B. (2026). Physics‐constrained network for enhanced extended‐range precipitation forecasting in East Asia. Geophysical Research Letters, 53, e2025GL120379. <https://doi.org/10.1029/2025GL120379>
 
-- Sun, M., Dai, J., Yuan, H.*, Xu, J., Chen, H., Zhu, J., 2026: Sea-breeze and gust front influences on supercell evolution: Observational and numerical insights. Atmospheric Research, 108885. <http://doi.org/10.1016/j.atmosres.2026.108885>
+- Dong, Y., Wang, S.\*, Yuan, H., Xu, F., Chen, W., Huang, Y., et al. (2026). How lateral flow impacts heavy rainfall in complex terrain: A composite analysis over the southern Anhui mountainous region. Journal of Geophysical Research: Atmospheres, 131, e2025JD045410. <https://doi.org/10.1029/2025JD045410>
 
-- Dong, Y., Yuan, H.*, 2026: China’s 1 km Daily Surface Soil Moisture Fusion Dataset (2000–2025) based on Explainable Machine Learning. Advances in Atmospheric Sciences, 43, 1317-1334. <https://doi.org/10.1007/s00376-026-5612-9>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://www.eurekalert.org/news-releases/1125987) [<Badge type="danger" text="公开数据集下载" vertical="middle"/>](https://doi.org/10.11888/Terre.tpdc.302923)
+- Sun, M., Dai, J., Yuan, H.\*, Xu, J., Chen, H., Zhu, J., 2026: Sea-breeze and gust front influences on supercell evolution: Observational and numerical insights. Atmospheric Research, 108885. <http://doi.org/10.1016/j.atmosres.2026.108885>
 
-- Liu, B., Zhang, H., Yuan, H., Wang, D., Li, Y., Chen, F., Wu, H.*, 2026: WADEPre: A Wavelet-based Decomposition Model for Extreme Precipitation Nowcasting with Multi-Scale Learning. arXiv:2602.02096.  <https://doi.org/10.48550/arXiv.2602.02096>
+- Dong, Y., Yuan, H.\*, 2026: China’s 1 km Daily Surface Soil Moisture Fusion Dataset (2000–2025) based on Explainable Machine Learning. Advances in Atmospheric Sciences, 43, 1317-1334. （封面文章）<https://doi.org/10.1007/s00376-026-5612-9>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://www.eurekalert.org/news-releases/1125987) [<Badge type="danger" text="公开数据集下载" vertical="middle"/>](https://doi.org/10.11888/Terre.tpdc.302923)
 
-- Zhang, Z., Yuan, H.*, 2026: Precipfusionnet: A unified deep learning model for improving numerical Precipitation Prediction. Journal of Geophysical Research: Machine Learning and Computation, 3, e2025JH000887.  <https://doi.org/10.1029/2025JH000887> [<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/a3/b1/c11323a828337/page.htm)
+- Liu, B., Zhang, H., Yuan, H., Wang, D., Li, Y., Chen, F., Wu, H.\*, 2026: WADEPre: A Wavelet-based Decomposition Model for Extreme Precipitation Nowcasting with Multi-Scale Learning. arXiv:2602.02096.  <https://doi.org/10.48550/arXiv.2602.02096>
+
+- Zhang, Z., Yuan, H.\*, 2026: Precipfusionnet: A unified deep learning model for improving numerical Precipitation Prediction. Journal of Geophysical Research: Machine Learning and Computation, 3, e2025JH000887.  <https://doi.org/10.1029/2025JH000887> [<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/a3/b1/c11323a828337/page.htm)
 
 ## 2025
 - Deng, G., Shen, X.\*, Yuan, H\*, Gong, J., Tong, H., Deng, L., Xu, Z., Chen, J., Sun J, Wang Y, Chen M, Wang J, Hu J, Zhu Y, Zhang Y, Li H, Wang Y, Gao L, Sheng L, Zhang H, Li D, Li L, Wang H, Chen C, Zhao Y, Zhao B, Li Y, Liu Z, Zhou Y, Chen F, Huo Z, Guo W, Zhang X, Gu W, Dai L, Zhang H, Lai Z. 2025. Research and application of CMA numerical weather prediction in meteorological support for the Beijing Winter Olympics (2022). Science China Earth Sciences. <https://www.sciengine.com/doi/10.1007/s11430-025-1713-4>.
