@@ -29,18 +29,19 @@
 
 - [王婧羽][] - 2020-Ph.D. student
 - [林立旻][] - 2023-Ph.D. student
-- [邵春雨][] - 2023-Ph.D. student-南赫
 - [谢有涌][] - 2023-Ph.D. student
-- [陈方亮][] - 2024-Ph.D. student-南赫
+- [邵春雨][] - 2023-Ph.D. student-南赫
 - [董一凡][] - 2024-Ph.D. student
 - [范禹韬][] - 2024-Ph.D. student
 - [李孟斌][] - 2024-Ph.D. student
-- [葛星宇][] - 2025-Ph.D. student-南赫
+- [陈方亮][] - 2024-Ph.D. student-南赫
 - [黄　柯][] - 2025-Ph.D. student
 - [唐嘉宁][] - 2025-Ph.D. student
 - [王秀智][] - 2025-Ph.D. student-南赫
+- [葛星宇][] - 2025-Ph.D. student-南赫
 - [刘柏田][] - 2026-Ph.D. student
 - [王海洋][] - 2026-Ph.D. student
+- [刘思涵][] - 2026-Ph.D. student-南赫
 
 ## 硕士研究生
 - [赵　阳][] - 2024-M.Sc student
@@ -49,7 +50,9 @@
 - [黄　涵][] - 2025-M.Sc student-南赫
 - [马苏东][] - 2025-M.Sc student-南赫
 - [胡义铭][] - 2025-M.Sc student-南赫
+- [范　媛][] - 2026-M.Sc student
 - [司蓓蓓][] - 2026-M.Sc student-南赫
+- [王子馨][] - 2026-M.Sc student-南赫
 
 ## 2020-至今毕业生就业情况
 | <div style="width:100px">学制 </div> | <div style="width:350px">毕业工作/职务</div> | <div style="width:50px"> 地点 </div>   | <div style="width:100px">备注</div> |
@@ -151,3 +154,6 @@
 [刘柏田]: https://sonderlau.github.io/
 [司蓓蓓]: /member/student/sibeibei.html
 [王海洋]: /member/student/wanghaiyang.html
+[刘思涵]: /member/student/liusihan.html
+[范　媛]: /member/student/fanyuan.html
+[王子馨]: /member/student/wangzixin.html
