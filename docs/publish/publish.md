@@ -1,11 +1,13 @@
 # 论著
 
 ## 2026
-- Gou, Q.\*, Koppa, A., Beck, H. E., Zhu, Y., Lü, H.\*, Li, H., Yuan, H., Yu, X., Miralles, D. G. (2026). Global flash drought prediction through evaporative stress forecasting. Geophysical Research Letters. Accepted.
+- Xu, F., Yuan, H.\* (2026). The Impact of urbanization on tropical cyclone rainfall over complex coastal terrain. Journal of Geophysical Research - Atmospheres. Accept.
 
-- Dai, L., Yuan, H.\*, Liu, Y., Li, X., Gu, X., Li, J., Zhao, Y. (2026). Improving extreme precipitation forecasts via cascade binary classification with diffusion post-processing. Journal of Geophysical Research: Machine Learning and Computation. Accepted. <https://doi.org/10.1029/2026JH001347>
+- Gou, Q.\*, Koppa, A., Beck, H. E., Zhu, Y., Lü, H.\*, Li, H., Yuan, H., Yu, X., Miralles, D. G. (2026). Global flash drought prediction through evaporative stress forecasting. Geophysical Research Letters. Accepted. <https://doi.org/10.1029/2026GL123439>
 
-- Zhao, Y., Niu, P., Zhou, T., Ma, Z., Ma, G., Jin, R., Yuan, H.\*, Sun, L.\* (2026). Pushing the limits of high-resolution weather forecasting through data scaling. In European Conference on Computer Vision. Accepted. (CCF-B) 
+- Dai, L., Yuan, H.\*, Liu, Y., Li, X., Gu, X., Li, J., Zhao, Y. (2026). Improving extreme precipitation forecasts via cascade binary classification with diffusion post-processing. Journal of Geophysical Research: Machine Learning and Computation, 3(4), e2026JH001347. <https://doi.org/10.1029/2026JH001347>
+
+- Zhao, Y., Niu, P., Zhou, T., Ma, Z., Ma, G., Jin, R., Yuan, H.\*, Sun, L.\* (2026). Pushing the limits of high-resolution weather forecasting through data scaling. In European Conference on Computer Vision. Accepted. (CCF-B; spotlight presentation) 
 
 - Ma, G., Chen, W., Zhao, Y., Yuan, H.\*, & Sun, L.\* (2026). RainCast: A high-resolution 72-hour short-term precipitation forecasting model. In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Accepted. (CCF-A) <https://doi.org/10.1145/3770855.3818880>
 

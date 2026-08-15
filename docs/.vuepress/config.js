@@ -25,7 +25,7 @@ export default defineUserConfig({
     logo: '/hero_images/hero.png',
     locales: {
       '/': {
-        selectLanguageText: '选择语言',
+        selectLanguageText: 'Language',
         selectLanguageName: '简体中文',
         navbar: [
           '/',
