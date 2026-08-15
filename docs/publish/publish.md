@@ -1,6 +1,8 @@
 # 论著
 
 ## 2026
+- Ding, C., Li, Z., Liu, Y., Li, J., Yuan, H.\*, Wang, X., Nguyen, C.-T.\* (2026). MeteorIR: Why multimodal LLMs hallucinate the weather? Proceedings of the ACM Multimedia Systems Conference 2026. Accepted. (CCF-A)
+
 - Xu, F., Yuan, H.\* (2026). The Impact of urbanization on tropical cyclone rainfall over complex coastal terrain. Journal of Geophysical Research - Atmospheres. Accept.
 
 - Gou, Q.\*, Koppa, A., Beck, H. E., Zhu, Y., Lü, H.\*, Li, H., Yuan, H., Yu, X., Miralles, D. G. (2026). Global flash drought prediction through evaporative stress forecasting. Geophysical Research Letters. Accepted. <https://doi.org/10.1029/2026GL123439>
