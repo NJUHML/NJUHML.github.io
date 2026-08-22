@@ -1,17 +1,17 @@
 # 论著
 
 ## 2026
-- Ding, C., Li, Z., Liu, Y., Li, J., Yuan, H.\*, Wang, X., Nguyen, C.-T.\* (2026). MeteorIR: Why multimodal LLMs hallucinate the weather? Proceedings of the ACM Multimedia Systems Conference 2026. Accepted. (CCF-A)
+- Ding, C., Li, Z., Liu, Y., Li, J., Yuan, H.\*, Wang, X., Nguyen, C.-T.\* (2026). MeteorIR: Why multimodal LLMs hallucinate the weather? Proceedings of the ACM Multimedia Systems Conference 2026. Accepted. (CCF-A) <https://doi.org/10.1145/3767308.3835484> 
 
-- Xu, F., Yuan, H.\* (2026). The Impact of urbanization on tropical cyclone rainfall over complex coastal terrain. Journal of Geophysical Research - Atmospheres. Accept.
+- Xu, F., Yuan, H.\* (2026). The Impact of urbanization on tropical cyclone rainfall over complex coastal terrain. Journal of Geophysical Research - Atmospheres. Accept. <https://doi.org/10.1029/2026JD046493>
 
-- Gou, Q.\*, Koppa, A., Beck, H. E., Zhu, Y., Lü, H.\*, Li, H., Yuan, H., Yu, X., Miralles, D. G. (2026). Global flash drought prediction through evaporative stress forecasting. Geophysical Research Letters. Accepted. <https://doi.org/10.1029/2026GL123439>
+- Gou, Q.\*, Koppa, A., Beck, H. E., Zhu, Y., Lü, H.\*, Li, H., Yuan, H., Yu, X., Miralles, D. G. (2026). Global flash drought prediction through evaporative stress forecasting. Geophysical Research Letters, 53, e2026GL123439.  <https://doi.org/10.1029/2026GL123439>
 
 - Dai, L., Yuan, H.\*, Liu, Y., Li, X., Gu, X., Li, J., Zhao, Y. (2026). Improving extreme precipitation forecasts via cascade binary classification with diffusion post-processing. Journal of Geophysical Research: Machine Learning and Computation, 3(4), e2026JH001347. <https://doi.org/10.1029/2026JH001347>
 
 - Zhao, Y., Niu, P., Zhou, T., Ma, Z., Ma, G., Jin, R., Yuan, H.\*, Sun, L.\* (2026). Pushing the limits of high-resolution weather forecasting through data scaling. In European Conference on Computer Vision. Accepted. (CCF-B; spotlight presentation) 
 
-- Ma, G., Chen, W., Zhao, Y., Yuan, H.\*, & Sun, L.\* (2026). RainCast: A high-resolution 72-hour short-term precipitation forecasting model. In Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Accepted. (CCF-A) <https://doi.org/10.1145/3770855.3818880>
+- Ma, G., Chen, W., Zhao, Y., Yuan, H.\*, Sun, L.\* (2026). RainCast: A high-resolution 72-hour short-term precipitation forecasting model. KDD'26: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, V.2. 11621-11632. (CCF-A) <https://doi.org/10.1145/3770855.3818880>
 
 - Wang, Y., Chen, H., Wu, H., Liu, J.\*, Yuan, H.\*, Cao, S., Wang, T., Zhuang, B. (2026). Physics‐constrained network for enhanced extended‐range precipitation forecasting in East Asia. Geophysical Research Letters, 53, e2025GL120379. <https://doi.org/10.1029/2025GL120379>
 
