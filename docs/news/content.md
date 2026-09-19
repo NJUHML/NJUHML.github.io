@@ -1,4 +1,4 @@
-- <Badge type="danger" text="2026-09" vertical="middle" /> 祝贺戴乐言同学获得2026年国家自然科学基金青年学生基础研究项目（本科生）资助！项目名称：面向AI气象模型的中短期强降水概率预报方法研究。2026年度[南京大学15名本科生斩获国自然青年学生基础研究项目](https://www.nju.edu.cn/info/1055/471501.htm)。
+- <Badge type="danger" text="2026-09" vertical="middle" /> 祝贺戴乐言同学获得2026年国家自然科学基金青年学生基础研究项目（本科生）资助！项目名称：面向AI气象模型的中短期强降水概率预报方法研究。2026年度[南京大学15名本科生斩获国自然青年学生基础研究项目](https://mp.weixin.qq.com/s/X49zhLcEyAJ68b3mv-BpvA)。
 
 <p style="margin-bottom: 0.5em;"></p>
 
