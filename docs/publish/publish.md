@@ -11,7 +11,7 @@
 
 - Dai, L., Yuan, H.\*, Liu, Y., Li, X., Gu, X., Li, J., Zhao, Y. (2026). Improving extreme precipitation forecasts via cascade binary classification with diffusion post-processing. Journal of Geophysical Research: Machine Learning and Computation, 3(4), e2026JH001347. <https://doi.org/10.1029/2026JH001347>  [<Badge type="warning" text="网络报道" vertical="middle"/>](https://mp.weixin.qq.com/s/Jhd7ywivEiCmEQ1o5MXZzw)
 
-- Zhao, Y., Niu, P., Zhou, T., Ma, Z., Ma, G., Jin, R., Yuan, H.\*, Sun, L.\* (2026). Pushing the limits of high-resolution weather forecasting through data scaling. In European Conference on Computer Vision. Accepted. (CCF-B; spotlight presentation) (<https://doi.org/10.1007/978-3-032-37086-0_8>)
+- Zhao, Y., Niu, P., Zhou, T., Ma, Z., Ma, G., Jin, R., Yuan, H.\*, Sun, L.\* (2026). Pushing the limits of high-resolution weather forecasting through data scaling. In European Conference on Computer Vision. Accepted. (CCF-B; spotlight presentation) <https://doi.org/10.1007/978-3-032-37086-0_8>
 
 - Ma, G., Chen, W., Zhao, Y., Yuan, H.\*, Sun, L.\* (2026). RainCast: A high-resolution 72-hour short-term precipitation forecasting model. KDD'26: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, V.2. 11621-11632. (CCF-A) <https://doi.org/10.1145/3770855.3818880>
 

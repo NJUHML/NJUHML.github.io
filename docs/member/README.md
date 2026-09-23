@@ -42,6 +42,7 @@
 - [刘柏田][] - 2026-Ph.D. student
 - [王海洋][] - 2026-Ph.D. student
 - [刘思涵][] - 2026-Ph.D. student-南赫
+- [蒋　超][] - 2026-Ph.D. student-南赫
 
 ## 硕士研究生
 - [赵　阳][] - 2024-M.Sc student
@@ -53,6 +54,7 @@
 - [范　媛][] - 2026-M.Sc student
 - [司蓓蓓][] - 2026-M.Sc student-南赫
 - [王子馨][] - 2026-M.Sc student-南赫
+- [冉入源][] - 2026-M.Sc student-南赫
 
 ## 2020-至今毕业生就业情况
 | <div style="width:100px">学制 </div> | <div style="width:350px">毕业工作/职务</div> | <div style="width:50px"> 地点 </div>   | <div style="width:100px">备注</div> |
@@ -159,3 +161,5 @@
 [刘思涵]: /member/student/liusihan.html
 [范　媛]: /member/student/fanyuan.html
 [王子馨]: /member/student/wangzixin.html
+[冉入源]: /member/student/ranruyuan.html
+[蒋　超]: /member/student/jiangchao.html
