@@ -14,6 +14,7 @@
 10. An intelligent PPI radar echo filtering method based on UNet, Patent No. `ZL2025102884880`
 11. An intelligent identification method for millimeter-wave cloud radar echoes based on a KAN network, Patent No. `ZL2025102818094`
 12. An objective identification method for heavy-precipitation events under weak synoptic forcing based on visualization information, Patent No. `ZL202510281807.5`
+13. An urban flooding forecasting method based on a multi-condition-guided diffusion model, Patent No. `ZL202511712417.5`
 
 ## Software Copyrights
 

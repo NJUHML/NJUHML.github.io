@@ -15,7 +15,7 @@ features:
   - title: Hydrometeorological Numerical Modeling
     details: We combine numerical models and artificial intelligence to study and predict the water cycle, urban flooding, surface runoff, river discharge, and the mechanisms and forecasting of extreme rainfall and flood events.
   - title: AI Weather Models
-    details: We develop generative deep-learning-based AI models for weather assimilation and prediction, improve model architectures, and study multi-scale weather and climate forecasting.
+    details: We develop generative deep-learning-based AI models for weather assimilation and prediction, with NJU-Earth as the core of a family of AI weather forecasting systems that support multi-scale weather forecasting, climate prediction, and disaster risk reduction.
   - title: Deep Learning Methods
     details: We build physics-informed deep learning frameworks integrating Transformers, diffusion models, and CNNs for downscaling, bias correction, data fusion, and time-series prediction.
 ---
@@ -25,6 +25,10 @@ features:
 The Hydrometeorology Research Group (NJUHML) is affiliated with the [School of Atmospheric Sciences, Nanjing University][NJUatmospheric]. The group is based on the Xianlin Campus of Nanjing University and is led by Professor [Huiling Yuan][Professor Yuan].
 
 Our research focuses on hydrometeorological numerical modeling, AI weather models, and deep learning methods. Projects are designed around the group-wide research agenda as well as individual interests, and are developed through weekly group meetings and regular one-on-one discussions.
+
+## About NJU-Earth
+
+[NJU-Earth](https://github.com/NJUHML/NJU-Earth), the Nanjing University AI Global Atmospheric Forecasting System, is a 0.25-degree high-resolution global AI weather forecasting model jointly developed by our team and Alibaba DAMO Academy based on the Baguan architecture. Building on this foundation, the group has developed the NJU-Earth family of AI forecasting systems, including BaguanHR, RainCast, RegionalCast, BaguanCyclone, the CBC-Diffusion probabilistic precipitation model, and NJU-Mars, providing intelligent technical support for meteorological research, disaster prevention, and risk reduction.
 
 ## Latest News
 

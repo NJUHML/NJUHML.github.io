@@ -1,7 +1,7 @@
 # 论著
 
 ## 2026
-- Lin, L., Yuan, H.*, Bao, X.*, Yang, S., Deng, L., Zhang, S., Zhao, Y. (2026). Enhanced retrieval of raindrop size distribution by integrating disdrometer observations and atmospheric variables with machine learning. Geophysical Research Letters. Accepted.
+- Lin, L., Yuan, H.*, Bao, X.*, Yang, S., Deng, L., Zhang, S., Zhao, Y. (2026). Enhanced retrieval of raindrop size distribution by integrating disdrometer observations and atmospheric variables with machine learning. Geophysical Research Letters, 53, e2026GL123664. <https://doi.org/10.1029/2026GL123664>
 
 - Ding, C., Li, Z., Liu, Y., Li, J., Yuan, H.\*, Wang, X., Nguyen, C.-T.\* (2026). MeteorIR: Why multimodal LLMs hallucinate the weather? Proceedings of the ACM Multimedia Systems Conference 2026. Accepted. (CCF-A) <https://doi.org/10.1145/3767308.3835484> 
 

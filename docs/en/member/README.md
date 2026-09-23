@@ -29,54 +29,53 @@
 
 ## Ph.D. Students
 
-- [Jingyu Wang][] - Ph.D. student, 2020
-- [Wenbin Chen][] - Ph.D. student, 2022
-- [Fanyu Xu][] - Ph.D. student, 2022
 - [Limin Lin][] - Ph.D. student, 2023
-- [Chunyu Shao][] - Ph.D. student, 2023, NHI
 - [Youyong Xie][] - Ph.D. student, 2023
-- [Fangliang Chen][] - Ph.D. student, 2024, NHI
+- [Chunyu Shao][] - Ph.D. student, 2023, NHI
 - [Yifan Dong][] - Ph.D. student, 2024
 - [Yutao Fan][] - Ph.D. student, 2024
 - [Mengbin Li][] - Ph.D. student, 2024
-- [Xingyu Ge][] - Ph.D. student, 2025, NHI
+- [Fangliang Chen][] - Ph.D. student, 2024, NHI
 - [Ke Huang][] - Ph.D. student, 2025
 - [Jianing Tang][] - Ph.D. student, 2025
 - [Xiuzhi Wang][] - Ph.D. student, 2025, NHI
-- [Baitian Liu][] - Ph.D. student, 2026, NHI
+- [Xingyu Ge][] - Ph.D. student, 2025, NHI
+- [Baitian Liu][] - Ph.D. student, 2026
 - [Haiyang Wang][] - Ph.D. student, 2026
+- [Sihan Liu][] - Ph.D. student, 2026, NHI
+- [Chao Jiang][] - Ph.D. student, 2026, NHI
+- [Xingyu Wang][] - Ph.D. student, 2026, NHI
 
 ## M.S. Students
 
-- [Guanlong Ma][] - M.S. student, 2023
-- [Ziyi Zhang][] - M.S. student, 2023
 - [Yang Zhao][] - M.S. student, 2024
-- [Xiang Li][] - M.S. student, 2024, NHI
-- [Yufan Xia][] - M.S. student, 2024, NHI
 - [Yiheng Liu][] - M.S. student, 2025
 - [Yang Liu][] - M.S. student, 2025
 - [Han Huang][] - M.S. student, 2025, NHI
 - [Sudong Ma][] - M.S. student, 2025, NHI
 - [Yiming Hu][] - M.S. student, 2025, NHI
+- [Yuan Fan][] - M.S. student, 2026
 - [Beibei Si][] - M.S. student, 2026, NHI
+- [Zixin Wang][] - M.S. student, 2026, NHI
+- [Ruyuan Ran][] - M.S. student, 2026, NHI
 
 ## Alumni Destinations Since 2020
 
 | <div style="width:80px">Degree</div> | <div style="width:300px">Position / Employer</div> | <div style="width:50px">Location</div> | <div style="width:100px">Notes</div> |
 |:--:|---|:--:|---|
-| Ph.D. | Foshan Meteorological Bureau | Foshan |  |
-| Ph.D. | Xiamen Meteorological Bureau | Xiamen |  |
-| Ph.D. | Wuhan Institute of Heavy Rain | Wuhan |  |
+| Ph.D. | Foshan Meteorological Bureau | Foshan | [Wenbin Chen][] |
+| Ph.D. | Xiamen Meteorological Bureau | Xiamen | [Fanyu Xu][] |
+| Ph.D. | Wuhan Institute of Heavy Rain | Wuhan | Liu Lin; [Jingyu Wang][] |
 | Ph.D. | Microsoft Research | Suzhou |  |
 | Ph.D. | Quantitative hedge fund | Shanghai |  |
 | Ph.D. | Fujian Normal University / Associate Professor | Fuzhou | [Han Han](https://geo.fjnu.edu.cn/_s80/77/37/c5053a358199/page.psp) |
 | Ph.D. | North China Air Traffic Management Bureau | Beijing |  |
 | Ph.D. | Shanghai Meteorological Service | Shanghai |  |
 | Research Staff / Postdoc | Nanjing University / Assistant Professor | Suzhou | [Sandro M. Ferreira Veiga](https://nh.nju.edu.cn/info/1051/6511.htm) |
-| M.S. | District-level government office | Nanjing |  |
-| M.S. | Xianju County Meteorological Bureau, Zhejiang | Taizhou |  |
-| M.S. | Huawei | Shenzhen |  |
-| M.S. | Tianjin Meteorological Service | Tianjin |  |
+| M.S. | District-level government office | Nanjing | [Ziyi Zhang][] |
+| M.S. | Xianju County Meteorological Bureau, Zhejiang | Taizhou | [Yufan Xia][] |
+| M.S. | Huawei | Shenzhen | [Guanlong Ma][] |
+| M.S. | Tianjin Meteorological Service | Tianjin | [Xiang Li][] |
 | M.S. | Technical University of Munich / Doctoral student | Germany |  |
 | M.S. | Nanjing University / Doctoral student | Nanjing | 2 alumni |
 | M.S. | Shanghai Typhoon Institute | Shanghai |  |
@@ -106,6 +105,7 @@
 
 | <div style="width:80px">Degree</div> | <div style="width:300px">Organization</div> | <div style="width:50px">Location</div> | <div style="width:100px">Notes</div> |
 |:--:|---|:--:|---|
+| M.S. | Meta Carbon (Hangzhou) Intelligent Technology Co., Ltd. | Hangzhou | 1 student |
 | M.S. | Alibaba DAMO Academy | Hangzhou | 2 students |
 | M.S. | Quantitative hedge fund | Shanghai | 1 student |
 | M.S. | Alibaba Cloud | Hangzhou | 1 student |
@@ -116,7 +116,9 @@
 | M.S. | E Fund Management | Guangzhou | 1 student |
 | M.S. | Leice Chuangxin Technology Co., Ltd. | Qingdao | 1 student |
 | M.S. | Environmental Defense Fund Climate Corps | Lanxi | 1 student |
-| Ph.D. | Fujian Meteorological Service | Fujian | 1 student |
+| M.S. | Nanjing Meteorological Science and Technology Innovation Research Institute | Nanjing | 1 student |
+| Ph.D. | World Meteorological Organization (WMO) AINPP AI Nowcasting Project (NiB) | Online / Beijing | 1 student |
+| Ph.D. | Fujian Meteorological Service | Fuzhou | 1 student |
 
 [Professor Yuan]: https://as.nju.edu.cn/60/20/c11339a483360/page.htm
 [Sandro]: https://nh.nju.edu.cn/info/1051/6511.htm
@@ -160,3 +162,9 @@
 [Baitian Liu]: https://sonderlau.github.io/
 [Beibei Si]: /en/member/student/sibeibei.html
 [Haiyang Wang]: /en/member/student/wanghaiyang.html
+[Sihan Liu]: /en/member/student/liusihan.html
+[Chao Jiang]: /en/member/student/jiangchao.html
+[Xingyu Wang]: /en/member/student/wangxingyu.html
+[Yuan Fan]: /en/member/student/fanyuan.html
+[Zixin Wang]: /en/member/student/wangzixin.html
+[Ruyuan Ran]: /en/member/student/ranruyuan.html

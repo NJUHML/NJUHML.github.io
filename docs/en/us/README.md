@@ -4,17 +4,17 @@
 
 ## Open Positions
 
-1. We are currently recruiting for the 2026 intake at the School of Atmospheric Sciences, Nanjing University: two Ph.D. students and one M.S. student under Professor Huiling Yuan. Strong coding skills and a background in atmospheric sciences are preferred. Additional Ph.D. and M.S. openings are available through collaborating faculty at the Nanjing-Helsinki Institute.
-2. We are also recruiting one to two postdoctoral researchers or full-time research staff to work with Professor Huiling Yuan on deep-learning-based weather prediction, including AI weather models, data assimilation, numerical modeling, and machine learning methods.
+1. We welcome applications for Ph.D. and M.S. programs at the School of Atmospheric Sciences, Nanjing University, under Professor Huiling Yuan. Applicants with backgrounds in atmospheric science, computer science, mathematics, physics, and related fields are encouraged to apply. Several Ph.D. and M.S. positions are also available at the Nanjing-Helsinki Institute in Atmospheric and Earth System Sciences under Professor Huiling Yuan and collaborating faculty.
+2. We are recruiting one to two postdoctoral researchers or full-time research staff to work with Professor Huiling Yuan on AI weather models, data assimilation, hydrometeorological numerical modeling, deep learning methods, and related topics.
 3. Professor Sandro Veiga is recruiting one postdoctoral researcher. Details are available here: <https://mp.weixin.qq.com/s/iqUthtc4oA0rhrPoMw6cWA>
 
 ## We Especially Welcome Applicants Who
 
-1. Are genuinely interested in weather models and AI-based forecasting and want to build things hands-on.
-2. Want to work on next-generation AI weather foundation models similar to Pangu-Weather, Fuxi, or GraphCast.
-3. Enjoy turning ideas into experiments quickly.
-4. Like programming, quantitative modeling, or academic competitions.
-5. Are sincere, collaborative, and communicate efficiently.
+1. Are passionate about weather forecasting, numerical models, AI weather models, and related directions, and enjoy hands-on exploration.<p style="margin-bottom: 0.5em;"></p>
+2. Are willing to study research problems deeply and keep exploring methodological innovation in numerical modeling and AI weather models.<p style="margin-bottom: 0.5em;"></p>
+3. Think independently, enjoy proposing new ideas, and can quickly carry out experiments and validation.<p style="margin-bottom: 0.5em;"></p>
+4. Love computer programming, algorithm development, mathematical modeling, or related research practice.<p style="margin-bottom: 0.5em;"></p>
+5. Are sincere, collaborative, and communicate efficiently.<p style="margin-bottom: 0.5em;"></p>
 
 ## Contact
 

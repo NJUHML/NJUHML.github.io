@@ -1,26 +1,40 @@
 # Publications
 
 ## 2026
+- Lin, L., Yuan, H.*, Bao, X.*, Yang, S., Deng, L., Zhang, S., Zhao, Y. (2026). Enhanced retrieval of raindrop size distribution by integrating disdrometer observations and atmospheric variables with machine learning. Geophysical Research Letters, 53, e2026GL123664. <https://doi.org/10.1029/2026GL123664>
+
+- Ding, C., Li, Z., Liu, Y., Li, J., Yuan, H.\*, Wang, X., Nguyen, C.-T.\* (2026). MeteorIR: Why multimodal LLMs hallucinate the weather? Proceedings of the ACM Multimedia Systems Conference 2026. Accepted. (CCF-A) <https://doi.org/10.1145/3767308.3835484>
+
+- Xu, F., Yuan, H.\* (2026). The Impact of urbanization on tropical cyclone rainfall over complex coastal terrain. Journal of Geophysical Research - Atmospheres, 131, e2026JD046493. <https://doi.org/10.1029/2026JD046493>
+
+- Gou, Q.\*, Koppa, A., Beck, H. E., Zhu, Y., Lü, H.\*, Li, H., Yuan, H., Yu, X., Miralles, D. G. (2026). Global flash drought prediction through evaporative stress forecasting. Geophysical Research Letters, 53, e2026GL123439. <https://doi.org/10.1029/2026GL123439>
+
+- Dai, L., Yuan, H.\*, Liu, Y., Li, X., Gu, X., Li, J., Zhao, Y. (2026). Improving extreme precipitation forecasts via cascade binary classification with diffusion post-processing. Journal of Geophysical Research: Machine Learning and Computation, 3(4), e2026JH001347. <https://doi.org/10.1029/2026JH001347> [<Badge type="warning" text="Media coverage" vertical="middle"/>](https://mp.weixin.qq.com/s/Jhd7ywivEiCmEQ1o5MXZzw)
+
+- Zhao, Y., Niu, P., Zhou, T., Ma, Z., Ma, G., Jin, R., Yuan, H.\*, Sun, L.\* (2026). Pushing the limits of high-resolution weather forecasting through data scaling. In European Conference on Computer Vision. Accepted. (CCF-B; spotlight presentation) <https://doi.org/10.1007/978-3-032-37086-0_8>
+
+- Ma, G., Chen, W., Zhao, Y., Yuan, H.\*, Sun, L.\* (2026). RainCast: A high-resolution 72-hour short-term precipitation forecasting model. KDD'26: Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, V.2. 11621-11632. (CCF-A) <https://doi.org/10.1145/3770855.3818880>
+
 - Wang, Y., Chen, H., Wu, H., Liu, J.*, Yuan, H.*, Cao, S., Wang, T., Zhuang, B. (2026). Physics‐constrained network for enhanced extended‐range precipitation forecasting in East Asia. Geophysical Research Letters, 53, e2025GL120379. <https://doi.org/10.1029/2025GL120379>
 
 - Dong, Y., Wang, S.*, Yuan, H., Xu, F., Chen, W., Huang, Y., et al. (2026). How lateral flow impacts heavy rainfall in complex terrain: A composite analysis over the southern Anhui mountainous region. Journal of Geophysical Research: Atmospheres, 131, e2025JD045410. <https://doi.org/10.1029/2025JD045410>
 
 - Sun, M., Dai, J., Yuan, H.*, Xu, J., Chen, H., Zhu, J., 2026: Sea-breeze and gust front influences on supercell evolution: Observational and numerical insights. Atmospheric Research, 108885. <http://doi.org/10.1016/j.atmosres.2026.108885>
 
-- Dong, Y., Yuan, H.*, 2026: China’s 1 km Daily Surface Soil Moisture Fusion Dataset (2000–2025) based on Explainable Machine Learning. Advances in Atmospheric Sciences. <https://doi.org/10.1007/s00376-026-5612-9>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://www.eurekalert.org/news-releases/1125987)
+- Dong, Y., Yuan, H.*, 2026: China’s 1 km Daily Surface Soil Moisture Fusion Dataset (2000–2025) based on Explainable Machine Learning. Advances in Atmospheric Sciences, 43, 1317-1334. (Cover article) <https://doi.org/10.1007/s00376-026-5612-9>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://www.eurekalert.org/news-releases/1125987) [<Badge type="danger" text="Public dataset" vertical="middle"/>](https://doi.org/10.11888/Terre.tpdc.302923)
 
 - Liu, B., Zhang, H., Yuan, H., Wang, D., Li, Y., Chen, F., Wu, H.*, 2026: WADEPre: A Wavelet-based Decomposition Model for Extreme Precipitation Nowcasting with Multi-Scale Learning. arXiv:2602.02096.  <https://doi.org/10.48550/arXiv.2602.02096>
 
-- Zhang, Z., Yuan, H.*, 2026: Precipfusionnet: A unified deep learning model for improving numerical Precipitation Prediction. Journal of Geophysical Research: Machine Learning and Computation, 3, e2025JH000887.  <https://doi.org/10.1029/2025JH000887> [<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/a3/b1/c11323a828337/page.htm)
+- Zhang, Z., Yuan, H.*, 2026: Precipfusionnet: A unified deep learning model for improving numerical Precipitation Prediction. Journal of Geophysical Research: Machine Learning and Computation, 3, e2025JH000887.  <https://doi.org/10.1029/2025JH000887> [<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/a3/b1/c11323a828337/page.htm)
 
 ## 2025
 - Deng, G., Shen, X.\*, Yuan, H\*, Gong, J., Tong, H., Deng, L., Xu, Z., Chen, J., Sun J, Wang Y, Chen M, Wang J, Hu J, Zhu Y, Zhang Y, Li H, Wang Y, Gao L, Sheng L, Zhang H, Li D, Li L, Wang H, Chen C, Zhao Y, Zhao B, Li Y, Liu Z, Zhou Y, Chen F, Huo Z, Guo W, Zhang X, Gu W, Dai L, Zhang H, Lai Z. 2025. Research and application of CMA numerical weather prediction in meteorological support for the Beijing Winter Olympics (2022). Science China Earth Sciences. <https://www.sciengine.com/doi/10.1007/s11430-025-1713-4>.
 
-- Gou, Q., Yu, X., Dong, Y., Wang, X., & Yuan, H.\* (2025). Climate‐dependent mechanisms accelerate flash droughts in drylands and humid regions. Geophysical Research Letters, 52, e2025GL118397. <https://doi.org/10.1029/2025GL118397> [<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/2d/20/c11323a797984/page.htm)
+- Gou, Q., Yu, X., Dong, Y., Wang, X., & Yuan, H.\* (2025). Climate‐dependent mechanisms accelerate flash droughts in drylands and humid regions. Geophysical Research Letters, 52, e2025GL118397. <https://doi.org/10.1029/2025GL118397> [<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/2d/20/c11323a797984/page.htm)
 
 - Yang, S., Nai, C., Liu, X., Li, W., Chao, J., Wang, J., Wang, L., Li, X., Chen, X., Lu, B., Xiao, Z., Boers, N., Yuan, H.\*, Pan, B.\*, 2025: Generative assimilation and prediction for weather and climate. arXiv:2503.03038. <https://doi.org/10.48550/arXiv.2503.03038>
 
-- Chen, W., H. Yuan\*, 2025: Influences of Large-Scale and Mesoscale Circulation Patterns on Precipitation during Rainy Seasons in South China. Monthly Weather Review, 153, 1513-1533. <https://doi.org/10.1175/MWR-D-24-0192.1> [<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/35/60/c11323a800096/page.htm)
+- Chen, W., H. Yuan\*, 2025: Influences of Large-Scale and Mesoscale Circulation Patterns on Precipitation during Rainy Seasons in South China. Monthly Weather Review, 153, 1513-1533. <https://doi.org/10.1175/MWR-D-24-0192.1> [<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/35/60/c11323a800096/page.htm)
 
 - Chao, J., Pan, B., Chen, Q., Yang, S., Wang, J., Zheng, Y., Li, X., Yuan, H., Chen, X., Lu, B. and Xiao, Z., 2025. Learning to infer weather states using partial observations. Journal of Geophysical Research: Machine Learning and Computation, 2, e2024JH000260. <https://doi.org/10.1029/2024JH000260>
 - Wang, J., Wang, X., Yuan, H., Cui, C., Wang, X., & Liu, L. 2025: Wind profile characteristics that warn of summertime flash heavy rain events over the middle reaches of the Yangtze River Basin. Earth and Space Science, 12(2), e2024EA003902.  <https://doi.org/10.1029/2024EA003902>
@@ -33,13 +47,13 @@
 
 
 ## 2024
-- Xie, Y., H. Yuan\*, 2024: Local and downstream effects of vertical soil water flow on summer persistent extreme precipitation events in southeast China. Journal of Geophysical Research: Atmospheres, 129(24), e2023JD040339.  <https://doi.org/10.1029/2023JD040339>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/27/70/c11323a796528/page.htm)
+- Xie, Y., H. Yuan\*, 2024: Local and downstream effects of vertical soil water flow on summer persistent extreme precipitation events in southeast China. Journal of Geophysical Research: Atmospheres, 129(24), e2023JD040339.  <https://doi.org/10.1029/2023JD040339>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/27/70/c11323a796528/page.htm)
 
 - Yang, C., H. Yuan\*, F. Zhang, M. Xie, Y. Wang, G.-M. Jiang, 2024: Convective initiation nowcasting in South China using physics-augmented random forest models and geostationary satellites. Earth and Space Science, 11, e2024EA003571. <https://doi.org/10.1029/2024EA003571>
 
 - Veiga, S. F., H. Yuan\*, 2024: Evaluation of metrics for assessing dipolar climate patterns in climate models. Climate Dynamics, 2024, 1-17. <https://doi.org/10.1007/s00382-024-07220-3>
 
-- Han, X., H. Yuan\*, 2024: Impacts of precipitation uncertainty on hydrological ensemble simulations over the Ganjiang River basin. Journal of Hydrology: Regional Studies, 51, 101617. <https://doi.org/10.1016/j.ejrh.2023.101617>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://mp.weixin.qq.com/s/LMqx8VLRCDDoaOWQd-cPaw)
+- Han, X., H. Yuan\*, 2024: Impacts of precipitation uncertainty on hydrological ensemble simulations over the Ganjiang River basin. Journal of Hydrology: Regional Studies, 51, 101617. <https://doi.org/10.1016/j.ejrh.2023.101617>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://mp.weixin.qq.com/s/LMqx8VLRCDDoaOWQd-cPaw)
 
 - Liu, Z., Dong, L., Qiu, Z., Li, X., Yuan, H., Meng, D., Qiu, X., Liang, D., Wang, Y., 2024: Global variable-resolution simulations of extreme precipitation over Henan, China, in 2021 with MPAS-Atmosphere v7.3. Geoscientific Model Development, 17, 5477-5496. <https://gmd.copernicus.org/articles/17/5477/2024/>
 
@@ -50,26 +64,26 @@
 - 沈烨,张晶寒,袁慧玲,杨龙.2024: 南京城市下垫面对夏季暴雨云团特征的影响.水科学进展, 2024, 35(3): 453-462. <http://skxjz.nhri.cn/article/doi/10.14042/j.cnki.32.1309.2024.03.009?viewType=citedby-info>
 
 ## 2023
-- Yang, S., H. Yuan\*, 2023: A customized multi-scale deep learning framework for storm nowcasting. Geophysical Research Letters, 50, e2023GL103979. <https://doi.org/10.1029/2023GL103979>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/a5/fc/c11323a632316/page.htm)
+- Yang, S., H. Yuan\*, 2023: A customized multi-scale deep learning framework for storm nowcasting. Geophysical Research Letters, 50, e2023GL103979. <https://doi.org/10.1029/2023GL103979>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/a5/fc/c11323a632316/page.htm)
 
-- Wang, J., Yuan, H.\*, Wang, X., Cui, C., & Wang, X. (2023). Impact of thermally forced circulations on the diurnal cycle of summer precipitation over the southeastern Tibetan Plateau. Geophysical Research Letters, 50, e2022GL100951. <https://doi.org/10.1029/2022GL100951>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/49/a6/c11323a608678/page.htm)
+- Wang, J., Yuan, H.\*, Wang, X., Cui, C., & Wang, X. (2023). Impact of thermally forced circulations on the diurnal cycle of summer precipitation over the southeastern Tibetan Plateau. Geophysical Research Letters, 50, e2022GL100951. <https://doi.org/10.1029/2022GL100951>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/49/a6/c11323a608678/page.htm)
 
-- Yang, Y., H. Yuan\*, W. Chen, 2023. Convection-permitting ensemble forecasts of a double rainbelt event in South China during the pre-summer rainy season. Atmospheric Research, 284, 106599. <https://doi.org/10.1016/j.atmosres.2022.106599>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/31/0e/c11323a602382/page.htm)
+- Yang, Y., H. Yuan\*, W. Chen, 2023. Convection-permitting ensemble forecasts of a double rainbelt event in South China during the pre-summer rainy season. Atmospheric Research, 284, 106599. <https://doi.org/10.1016/j.atmosres.2022.106599>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/31/0e/c11323a602382/page.htm)
 
-- Xu, F., H. Yuan\*, L. Lin, W. Chen, 2023: Convective-scale ensemble forecasts of the heavy precipitation of typhoon Lekima (2019) in Zhejiang Province. Atmospheric Research, 283, 106543. <https://doi.org/10.1016/j.atmosres.2022.106543>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/2d/5a/c11323a601434/page.htm)
+- Xu, F., H. Yuan\*, L. Lin, W. Chen, 2023: Convective-scale ensemble forecasts of the heavy precipitation of typhoon Lekima (2019) in Zhejiang Province. Atmospheric Research, 283, 106543. <https://doi.org/10.1016/j.atmosres.2022.106543>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/2d/5a/c11323a601434/page.htm)
 
-- Liu, L., H. Yuan\*, Y. Deng, J. Ren, Y. Bai, C. Cui, 2023: Effects of aerosols on the - forecasting of Mei-yu frontal storms over the Yangtze–Huai River Valley. Atmospheric Research, 283, 106535.<https://doi.org/10.1016/j.atmosres.2022.106535>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/27/4a/c11323a599882/page.htm)
+- Liu, L., H. Yuan\*, Y. Deng, J. Ren, Y. Bai, C. Cui, 2023: Effects of aerosols on the - forecasting of Mei-yu frontal storms over the Yangtze–Huai River Valley. Atmospheric Research, 283, 106535.<https://doi.org/10.1016/j.atmosres.2022.106535>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/27/4a/c11323a599882/page.htm)
 
 - Liang, L., Liang, S., Li, L. Z., Yuan, H., & Zeng, Z. 2023. Lagged effect of the Pacific Decadal Oscillation on decadal variation in global land precipitation. The Innovation Geoscience, 1(3), 100034. <https://doi.org/10.59717/j.xinn-geo.2023.100034>
 
 - 王开存, 袁慧玲. 2023. 国家自然科学基金大气科学学科二级申请代码下设研究方向与关键词解读：D0515应用气象学[J]. 大气科学, 47(1): 230−238. <http://www.iapjournals.ac.cn/dqkx/article/doi/10.3878/j.issn.1006-9895.2212.22315>
 
 ## 2022
-- Yang, S., H. Yuan\*, L. Dong, 2022: Offshore wind resource assessment by characterizing weather regimes based on self-organizing map. Environmental Research Letters, 17, 124009. <https://doi.org/10.1088/1748-9326/aca2c2>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/1f/28/c11323a597800/page.htm)
+- Yang, S., H. Yuan\*, L. Dong, 2022: Offshore wind resource assessment by characterizing weather regimes based on self-organizing map. Environmental Research Letters, 17, 124009. <https://doi.org/10.1088/1748-9326/aca2c2>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/1f/28/c11323a597800/page.htm)
 
-- Lin, L., H. Yuan\*, X. Bao, W. Chen, S. Zhang, F. Xu, 2022: Evaluation of the raindrop size distribution representation of microphysics schemes in typhoon Lekima using disdrometer network observations. Atmospheric Research, 278, 106346. <https://doi.org/10.1016/j.atmosres.2022.106346>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/2d/5a/c11323a601434/page.htm)
+- Lin, L., H. Yuan\*, X. Bao, W. Chen, S. Zhang, F. Xu, 2022: Evaluation of the raindrop size distribution representation of microphysics schemes in typhoon Lekima using disdrometer network observations. Atmospheric Research, 278, 106346. <https://doi.org/10.1016/j.atmosres.2022.106346>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/2d/5a/c11323a601434/page.htm)
 
-- Chen, W., H. Yuan\*, 2022: Onshore convection associated with the easterly wave over the South China Sea: A case study. Atmospheric Research, 268, 105979. <https://doi.org/10.1016/j.atmosres.2021.105979>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/31/0e/c11323a602382/page.htm)
+- Chen, W., H. Yuan\*, 2022: Onshore convection associated with the easterly wave over the South China Sea: A case study. Atmospheric Research, 268, 105979. <https://doi.org/10.1016/j.atmosres.2021.105979>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/31/0e/c11323a602382/page.htm)
 
 - Sandro F. Veiga, H. Yuan\*, 2022: The response of the East Asian summer rainfall to more extreme El Niño events in future climate scenarios. Atmospheric Research, 268, 105983. <https://doi.org/10.1016/j.atmosres.2021.105983>
 
@@ -95,18 +109,18 @@
 
 
 ## 2020
-- Wu, B., S. Oncley, H. Yuan\*, F. Chen, 2020: Ground heat flux determination based on near-surface soil hydro-thermodynamics. Journal of Hydrology, 591, 125578. <https://doi.org/10.1016/j.jhydrol.2020.125578>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/94/cc/c11323a496844/page.htm)
+- Wu, B., S. Oncley, H. Yuan\*, F. Chen, 2020: Ground heat flux determination based on near-surface soil hydro-thermodynamics. Journal of Hydrology, 591, 125578. <https://doi.org/10.1016/j.jhydrol.2020.125578>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/94/cc/c11323a496844/page.htm)
 
-- Chen, Y, H. Yuan\*, Y. Yang, and R. Sun, 2020: Sub-daily soil moisture estimate using dynamic Bayesian model averaging. Journal of Hydrology, 590, 125455. <https://doi.org/10.1016/j.jhydrol.2020.125445>[<Badge type="warning" text="网络报道1" vertical="middle"/>](http://www.nsfc.gov.cn/csc/20340/20343/54945/index.html)[<Badge type="warning" text="网络报道2" vertical="middle"/>](https://as.nju.edu.cn/8e/7a/c11323a495226/page.htm)
+- Chen, Y, H. Yuan\*, Y. Yang, and R. Sun, 2020: Sub-daily soil moisture estimate using dynamic Bayesian model averaging. Journal of Hydrology, 590, 125455. <https://doi.org/10.1016/j.jhydrol.2020.125445>[<Badge type="warning" text="Media coverage 1" vertical="middle"/>](http://www.nsfc.gov.cn/csc/20340/20343/54945/index.html)[<Badge type="warning" text="Media coverage 2" vertical="middle"/>](https://as.nju.edu.cn/8e/7a/c11323a495226/page.htm)
 
 - Corrigendum to "Sub-daily soil moisture estimate using dynamic Bayesian model averaging" [J. Hydrol. 590 (2020) 125445] (Journal of Hydrology (2020) 590, (S0022169420309057), <https://doi.org/10.1016/j.jhydrol.2020.125054>)
 
-- Chen, F., H. Yuan\*, R. Sun\*, C. Yang, 2020: Streamflow simulations using error correction ensembles of satellite precipitation products over the Huaihe River basin. Journal of Hydrology, 589, 125179. <https://doi.org/10.1016/j.jhydrol.2020.125179>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
+- Chen, F., H. Yuan\*, R. Sun\*, C. Yang, 2020: Streamflow simulations using error correction ensembles of satellite precipitation products over the Huaihe River basin. Journal of Hydrology, 589, 125179. <https://doi.org/10.1016/j.jhydrol.2020.125179>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
 
 
-- Chen, Y, and H. Yuan\*, 2020:Evaluation of nine sub-daily soil moisture model products over China using high-resolution in situ observations. Journal of Hydrology, 588, 125054. <https://doi.org/10.1016/j.jhydrol.2020.125054>[<Badge type="warning" text="网络报道1" vertical="middle"/>](http://www.nsfc.gov.cn/csc/20340/20343/54945/index.html)[<Badge type="warning" text="网络报道2" vertical="middle"/>](https://as.nju.edu.cn/8e/7a/c11323a495226/page.htm)
+- Chen, Y, and H. Yuan\*, 2020:Evaluation of nine sub-daily soil moisture model products over China using high-resolution in situ observations. Journal of Hydrology, 588, 125054. <https://doi.org/10.1016/j.jhydrol.2020.125054>[<Badge type="warning" text="Media coverage 1" vertical="middle"/>](http://www.nsfc.gov.cn/csc/20340/20343/54945/index.html)[<Badge type="warning" text="Media coverage 2" vertical="middle"/>](https://as.nju.edu.cn/8e/7a/c11323a495226/page.htm)
 
-- Yang, C., H. Yuan\*, X. Su, 2020: Bias correction of ensemble precipitation forecasts in the improvement of summer streamflow prediction skill. Journal of Hydrology, 588, 124955. <https://doi.org/10.1016/j.jhydrol.2020.124955>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
+- Yang, C., H. Yuan\*, X. Su, 2020: Bias correction of ensemble precipitation forecasts in the improvement of summer streamflow prediction skill. Journal of Hydrology, 588, 124955. <https://doi.org/10.1016/j.jhydrol.2020.124955>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
 
 
 - Sun, R., F. Hernández, X. Liang, and H. Yuan, 2020: A calibration framework for high-resolution hydrological models using a multiresolution and heterogeneous strategy. Water Resources Research, 56, e2019WR026541. <https://doi.org/10.1029/2019WR026541>
@@ -117,7 +131,7 @@
 
 
 ## 2019
-- Chen, Y., Yuan, H.\*, and Gao, S., 2019: A high-resolution simulation of roll convection over the Yellow Sea during a cold air outbreak. Journal of Geophysical Research: Atmospheres, 124, 10608-10625. <https://doi.org/10.1029/2019JD030968>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/50/74/c11323a479348/page.htm)
+- Chen, Y., Yuan, H.\*, and Gao, S., 2019: A high-resolution simulation of roll convection over the Yellow Sea during a cold air outbreak. Journal of Geophysical Research: Atmospheres, 124, 10608-10625. <https://doi.org/10.1029/2019JD030968>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/50/74/c11323a479348/page.htm)
 
 - Han, H., Liu, J., Yuan, H., Wang, T., Zhuang, B., and Zhang, X., 2019: Foreign influences on tropospheric ozone over East Asia through global atmospheric transport. Atmospheric Chemistry and Physics, 19, 12495-12514. <https://doi.org/10.5194/acp-19-12495-2019>
 
@@ -125,9 +139,9 @@
 
 
 ## 2018
-- Yang, Y., H. Yuan\*, and W. Yu, 2018: Uncertainties of 3D Soil Hydraulic Parameters in Streamflow Simulations using a Distributed Hydrological Model System. Journal of Hydrology, 567, 12-24. <https://doi.org/10.1016/j.jhydrol.2018.09.042>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
+- Yang, Y., H. Yuan\*, and W. Yu, 2018: Uncertainties of 3D Soil Hydraulic Parameters in Streamflow Simulations using a Distributed Hydrological Model System. Journal of Hydrology, 567, 12-24. <https://doi.org/10.1016/j.jhydrol.2018.09.042>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
 
-- Sun, R., H. Yuan\*, and Y. Yang, 2018. Using multiple satellite-gauge merged precipitation products ensemble for hydrologic uncertainty analysis over the Huaihe River basin. Journal of Hydrology, 566, 406-420.<https://doi.org/10.1016/j.jhydrol.2018.09.024>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
+- Sun, R., H. Yuan\*, and Y. Yang, 2018. Using multiple satellite-gauge merged precipitation products ensemble for hydrologic uncertainty analysis over the Huaihe River basin. Journal of Hydrology, 566, 406-420.<https://doi.org/10.1016/j.jhydrol.2018.09.024>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
 
 - Chen, X., H. Yuan\*, and M. Xue, 2018: Spatial spread-skill relationship in terms of agreement scales for precipitation forecasts in a convection-allowing ensemble. Quarterly Journal of the Royal Meteorological Society, 144, 85-98.<https://doi.org/10.1002/qj.3186>
 
@@ -137,7 +151,7 @@
 
 
 ## 2017
-- Sun, R., H. Yuan\*, and X. Liu, 2017. Effect of heteroscedasticity treatment in residual error models on model calibration and prediction uncertainty estimation. Journal of Hydrology, 554, 680-692. <https://doi.org/10.1016/j.jhydrol.2017.09.041>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
+- Sun, R., H. Yuan\*, and X. Liu, 2017. Effect of heteroscedasticity treatment in residual error models on model calibration and prediction uncertainty estimation. Journal of Hydrology, 554, 680-692. <https://doi.org/10.1016/j.jhydrol.2017.09.041>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
 
 - 孙敏,袁慧玲\*,杜予罡,2017:上海地区春季最高气温预报失败案例分析,气象, 44(1): 65-79. <https://doi.org/10.7519/j.issn.1000-0526.2018.01.006>
 
@@ -147,7 +161,7 @@
 ## 2016
 - Yuan, H., Sun, M. and Wang, Y., 2016: Assessment of the benefits of the Chinese Public Weather Service. Meteorological Applications, 23, 132–139. <https://doi.org/10.1002/met.1539>
 
-- Sun, R., H. Yuan\*, X. Liu, and X. Jiang, 2016: Evaluation of the latest satellite-gauge precipitation products and their hydrologic applications over the Huaihe River basin. Journal of Hydrology, 536, 302-319. <https://doi.org/10.1016/j.jhydrol.2016.02.054>[<Badge type="warning" text="网络报道" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
+- Sun, R., H. Yuan\*, X. Liu, and X. Jiang, 2016: Evaluation of the latest satellite-gauge precipitation products and their hydrologic applications over the Huaihe River basin. Journal of Hydrology, 536, 302-319. <https://doi.org/10.1016/j.jhydrol.2016.02.054>[<Badge type="warning" text="Media coverage" vertical="middle"/>](https://as.nju.edu.cn/74/2a/c11323a488490/page.htm)
 
 - Li, S., Y. Wang, H. Yuan\*, J. Song, and X. Xu, 2016: Ensemble mean forecast skill and applications with the T213 ensemble prediction system. Advances in Atmospheric Sciences, 33, 1297–1305. <https://doi.org/10.1007/s00376-016-6155-2>
 

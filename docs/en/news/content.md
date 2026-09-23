@@ -1,3 +1,11 @@
+- <Badge type="danger" text="2026-09" vertical="middle" /> Congratulations to Dai Leyan for receiving support from the 2026 National Natural Science Foundation of China Young Student Basic Research Program for undergraduates. The project is titled “Medium- and Short-Range Probabilistic Forecasting Methods for Heavy Precipitation for AI Weather Models.” In 2026, [15 Nanjing University undergraduates received NSFC Young Student Basic Research Program support](https://mp.weixin.qq.com/s/X49zhLcEyAJ68b3mv-BpvA).
+
+<p style="margin-bottom: 0.5em;"></p>
+
+- <Badge type="danger" text="2026-07" vertical="middle" /> Congratulations to [Fangliang Chen][] and [Sudong Ma][] for receiving support from the [2026 Jiangsu Provincial Graduate Research and Practice Innovation Program](https://jyt.jiangsu.gov.cn/art/2026/7/31/art_58960_11811289.html). Previously, [Guanlong Ma][] (2024), [Chunyu Shao][] (2025), and [Xiang Li][] (2025) also received support from this program. Four of these projects are AI+ projects under the “Mobile Light - Digital Intelligence Innovation” category.
+
+<p style="margin-bottom: 0.5em;"></p>
+
 - <Badge type="danger" text="2026-05" vertical="middle" /> On May 28, 2026, the 7th Congress of the Returned Overseas Chinese Federation of Nanjing University was held at the Xianlin Campus. The meeting elected the 7th committee and leadership team. Academician Yi Shi was elected chair, and Professor [Huiling Yuan][] was elected vice chair. She also serves as vice chair of the Qixia District Returned Overseas Chinese Federation and vice president of the Nanjing University Western Returned Scholars Association.
 
 <p style="margin-bottom: 0.5em;"></p>
@@ -36,14 +44,15 @@
 
 - <Badge type="tip" text="2025-07" vertical="middle" /> Congratulations to all NJUHML graduates of the Class of 2025.
 
-More historical news is still available on the Chinese pages and can be translated further if needed.
-
 [Huiling Yuan]: https://as.nju.edu.cn/60/20/c11339a483360/page.htm
 [Wenbin Chen]: /en/member/student/chenwenbin.html
+[Chunyu Shao]: /en/member/student/shaochunyu.html
 [Youyong Xie]: /en/member/student/xieyouyong.html
 [Fangliang Chen]: /en/member/student/chenfangliang.html
 [Yutao Fan]: /en/member/student/fanyutao.html
 [Guanlong Ma]: /en/member/student/maguanlong.html
 [Ziyi Zhang]: /en/member/student/zhangziyi.html
+[Xiang Li]: /en/member/student/lixiang.html
+[Sudong Ma]: /en/member/student/masudong.html
 [sandro]: https://nh.nju.edu.cn/info/1051/6511.htm
 [Jie Chen]: https://nh.nju.edu.cn/info/1051/6351.htm
