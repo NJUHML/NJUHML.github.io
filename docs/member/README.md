@@ -134,7 +134,7 @@
 [徐凡宇]: /member/student/xufanyu.html
 [林立旻]: /member/student/linlimin.html
 [邵春雨]: /member/student/shaochunyu.html
-[谢有涌]: /member/student/xieyouyong.html
+[谢有涌]: https://xieyouyong.github.io/
 [陈方亮]: /member/student/chenfangliang.html
 [董一凡]: /member/student/dongyifan.html
 [范禹韬]: /member/student/fanyutao.html

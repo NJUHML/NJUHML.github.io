@@ -139,7 +139,7 @@
 [Fanyu Xu]: /en/member/student/xufanyu.html
 [Limin Lin]: /en/member/student/linlimin.html
 [Chunyu Shao]: /en/member/student/shaochunyu.html
-[Youyong Xie]: /en/member/student/xieyouyong.html
+[Youyong Xie]: https://xieyouyong.github.io/
 [Fangliang Chen]: /en/member/student/chenfangliang.html
 [Yifan Dong]: /en/member/student/dongyifan.html
 [Yutao Fan]: /en/member/student/fanyutao.html
