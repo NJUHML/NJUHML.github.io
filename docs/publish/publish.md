@@ -1,7 +1,7 @@
 # 论著
 
 ## 2026
-- Yang, S., Nai, C., Liu, X., Li, W., Chao, J., Wang, J., Wang, L., Li, L., Li, X., Chen, X., Lu, B., Li, X., Xiao, Z., Boers, N.\*, Yuan, H.\*, Pan, B.\* (2026). Generative assimilation and prediction for weather and climate. npj Climate and Atmospheric Science. In press. <https://doi.org/10.1038/s41612-026-01585-4>
+- Yang, S., Nai, C., Liu, X., Li, W., Chao, J., Wang, J., Wang, L., Li, L., Li, X., Chen, X., Lu, B., Li, X., Xiao, Z., Boers, N.\*, Yuan, H.\*, Pan, B.\* (2026). Generative assimilation and prediction for weather and climate. npj Climate and Atmospheric Science, 9, 218. <https://doi.org/10.1038/s41612-026-01585-4>
 
 - Lin, L., Yuan, H.*, Bao, X.*, Yang, S., Deng, L., Zhang, S., Zhao, Y. (2026). Enhanced retrieval of raindrop size distribution by integrating disdrometer observations and atmospheric variables with machine learning. Geophysical Research Letters, 53, e2026GL123664. <https://doi.org/10.1029/2026GL123664>
 
