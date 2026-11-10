@@ -5,7 +5,7 @@
 
 - Lin, L., Yuan, H.*, Bao, X.*, Yang, S., Deng, L., Zhang, S., Zhao, Y. (2026). Enhanced retrieval of raindrop size distribution by integrating disdrometer observations and atmospheric variables with machine learning. Geophysical Research Letters, 53, e2026GL123664. <https://doi.org/10.1029/2026GL123664>
 
-- Ding, C., Li, Z., Liu, Y., Li, J., Yuan, H.\*, Wang, X., Nguyen, C.-T.\* (2026). MeteorIR: Why multimodal LLMs hallucinate the weather? Proceedings of the ACM Multimedia Systems Conference 2026. ACMMM'26. (CCF-A) <https://doi.org/10.1145/3767308.3835484> 
+- Ding, C., Li, Z., Liu, Y., Li, J., Yuan, H.\*, Wang, X., Nguyen, C.-T.\* (2026). MeteorIR: Why multimodal LLMs hallucinate the weather. In Proceedings of the 34th ACM International Conference on Multimedia (MM ’26), November 10–14, 2026, Rio de Janeiro, Brazil. ACM, New York, NY, USA, 10 pages. (CCF-A) <https://doi.org/10.1145/3767308.3835484> 
 
 - Xu, F., Yuan, H.\* (2026). The Impact of urbanization on tropical cyclone rainfall over complex coastal terrain. Journal of Geophysical Research - Atmospheres, 131, e2026JD046493. <https://doi.org/10.1029/2026JD046493>
 
